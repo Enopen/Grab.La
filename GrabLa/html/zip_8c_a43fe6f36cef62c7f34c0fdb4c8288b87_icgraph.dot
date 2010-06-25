@@ -1,0 +1,23 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="zipCloseFileInZipRaw",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="zipCloseFileInZip",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$zip_8c.html#ae470f753aef4cffe4f77a5ec2bcfbde1"];
+  Node2 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="-[ZipArchive addFileToZip:newname:]",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_zip_archive.html#a170c8ef05dd74baa486e1e5569f56f21"];
+  Node2 -> Node4 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="zipClose",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$zip_8c.html#a4fda7a41fa2f57d105ffc7d1cbcf53cc"];
+  Node4 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="-[ZipArchive CloseZipFile2]",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_zip_archive.html#a94f65b610c1e6b225c1df35adfa7a47b"];
+  Node2 -> Node6 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="zipOpenNewFileInZip3",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$zip_8c.html#a6b17cc2fa173054a156218befe2b31f5"];
+  Node6 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node6 -> Node7 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node7 [label="zipOpenNewFileInZip2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$zip_8c.html#ae3c822f7ddf7c351e7a6c633ed1590d4"];
+  Node7 -> Node8 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node8 [label="zipOpenNewFileInZip",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$zip_8c.html#a14cf664b19f00f41f6865a7c3173e973"];
+  Node8 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+}

@@ -1,0 +1,1907 @@
+TGrabLa
+v7
+r0
+t299134367.741669
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Volumes/Untitled/GrabLa/GUILogin.xib
+cCompileXIB /Volumes/Untitled/GrabLa/MainWindow.xib
+cCpResource build/Debug/GrabLa.app/Contents/Resources/support.png /Users/Moddy/Downloads/icons-1/PNG/support.png
+cCpResource build/Debug/GrabLa.app/Contents/Resources/account.png /Users/Moddy/Downloads/icons-1/PNG/account.png
+cCpResource build/Debug/GrabLa.app/Contents/Resources/updates.png updates.png
+cCpResource build/Debug/GrabLa.app/Contents/Resources/general.png general.png
+cCpResource build/Debug/GrabLa.app/Contents/Resources/files.png /Users/Moddy/Downloads/icons-1/PNG/files.png
+cProcessPCH /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch.gch GrabLa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o /Volumes/Untitled/GrabLa/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o /Volumes/Untitled/GrabLa/InvisiView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o /Volumes/Untitled/GrabLa/GUILogin.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/MainWindow.o /Volumes/Untitled/GrabLa/MainWindow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/HotKey.o /Volumes/Untitled/GrabLa/HotKey.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ScreenGrab.o /Volumes/Untitled/GrabLa/ScreenGrab.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ZipArchive.o /Volumes/Untitled/GrabLa/ZipArchive.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004B760CC000000000000049C0
+t1266027712
+s18880
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004864BE3E00000000000005D7
+t1214561854
+s1495
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/zconf.h
+c0000000047BABC060000000000002577
+t1203420166
+s9591
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/zlib.h
+c0000000047BABC0600000000000102A5
+t1203420166
+s66213
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/lib/libz.1.2.3.dylib
+c000000004B760D050000000000006EE8
+t1266027781
+s28392
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004B99A2320000000000003A54
+t1268359730
+s14932
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B448EEF00000000000005FF
+t1262784239
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/zconf.h
+c000000004B0D31210000000000002577
+t1259155745
+s9591
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/zlib.h
+c000000004B0D312100000000000102A5
+t1259155745
+s66213
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libz.1.2.3.dylib
+c000000004B99A2390000000000005D2C
+t1268359737
+s23852
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/English.lproj/InfoPlist.strings
+c000000004C0E37C8000000000000005C
+t1276000200
+s92
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/GUIHistory.h
+c000000004C0FFDA80000000000000139
+t1276116392
+s313
+i<Cocoa/Cocoa.h>
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/GUIHistory.m
+c000000004C1019840000000000000377
+t1276123524
+s887
+i"GUIHistory.h"
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/GUIHistory.xib
+c000000004C0FF8EA000000000000A8E6
+t1276115178
+s43238
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/GUILogin.h
+c000000004C0FEE8E0000000000000339
+t1276112526
+s825
+i<Cocoa/Cocoa.h>
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/GUILogin.m
+c000000004C1029580000000000000782
+t1276127576
+s1922
+i"GUILogin.h"
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/GUILogin.xib
+c000000004C0FD8D6000000000000ABB8
+t1276106966
+s43960
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/GrabLa_Prefix.pch
+c000000004C02DA58000000000000008F
+t1275255384
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/InvisiView.h
+c000000004C0FF2DA0000000000000216
+t1276113626
+s534
+i<Cocoa/Cocoa.h>
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/InvisiView.m
+c000000004C1DC2E200000000000006DC
+t1277018850
+s1756
+i"InvisiView.h"
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/MainWindow.xib
+c000000004C1DC2BE0000000000010F79
+t1277018814
+s69497
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app
+t1277037452
+s102
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist
+t1276001628
+s713
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+t1277037424
+s19420
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/PkgInfo
+t1276001628
+s8
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1276000292
+s92
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUIHistory.nib
+t1276115200
+s6725
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUILogin.nib
+t1276113512
+s6770
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/MainWindow.nib
+t1277018858
+s13129
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/account.png
+t1277018856
+s1860
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/files.png
+t1277018856
+s948
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/general.png
+t1277018858
+s1717
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.nib
+t1277018858
+s1363
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.png
+t1277018856
+s2397
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/updates.png
+t1277018858
+s1794
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o
+t1277018880
+s20112
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+t1277018880
+s17500
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList
+c000000004C1E0B2C000000000000017C
+t1277037356
+s380
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+t1277018878
+s17164
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+t1277037422
+s17372
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/general.png
+c0000000049E0B6F200000000000006B5
+t1239463666
+s1717
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/main.m
+c000000004C1E0B68000000000000080E
+t1277037416
+s2062
+i<Cocoa/Cocoa.h>
+i"InvisiView.h"
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/support.xib
+c000000004C1D8FCC0000000000001524
+t1277005772
+s5412
+
+N/Users/Moddy/Desktop/USB BackUP/GrabLa/updates.png
+c0000000049E0B6F20000000000000702
+t1239463666
+s1794
+
+N/Users/Moddy/Desktop/icon.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Moddy/Downloads/icons-1/PNG/account.png
+c0000000049E0B6F00000000000000744
+t1239463664
+s1860
+
+N/Users/Moddy/Downloads/icons-1/PNG/files.png
+c0000000049E0B6F000000000000003B4
+t1239463664
+s948
+
+N/Users/Moddy/Downloads/icons-1/PNG/onebit_13.png
+c0000000049E0B6F000000000000003B4
+t1239463664
+s948
+
+N/Users/Moddy/Downloads/icons-1/PNG/onebit_16.png
+c0000000049E0B6F0000000000000095D
+t1239463664
+s2397
+
+N/Users/Moddy/Downloads/icons-1/PNG/onebit_18.png
+c0000000049E0B6F00000000000000744
+t1239463664
+s1860
+
+N/Users/Moddy/Downloads/icons-1/PNG/support.png
+c0000000049E0B6F0000000000000095D
+t1239463664
+s2397
+
+N/Volumes/TRUECRYPT/GrabLa/English.lproj/InfoPlist.strings
+c000000004C0E37C8000000000000005C
+t1276000200
+s92
+
+N/Volumes/TRUECRYPT/GrabLa/GUIHistory.h
+c000000004C0FFDA80000000000000139
+t1276116392
+s313
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TRUECRYPT/GrabLa/GUIHistory.m
+c000000004C1019840000000000000377
+t1276123524
+s887
+i"GUIHistory.h"
+
+N/Volumes/TRUECRYPT/GrabLa/GUIHistory.xib
+c000000004C0FF8EA000000000000A8E6
+t1276115178
+s43238
+
+N/Volumes/TRUECRYPT/GrabLa/GUILogin.h
+c000000004C0FEE8E0000000000000339
+t1276112526
+s825
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TRUECRYPT/GrabLa/GUILogin.m
+c000000004C1029580000000000000782
+t1276127576
+s1922
+i"GUILogin.h"
+
+N/Volumes/TRUECRYPT/GrabLa/GUILogin.xib
+c000000004C0FD8D6000000000000ABB8
+t1276106966
+s43960
+
+N/Volumes/TRUECRYPT/GrabLa/GrabLa_Prefix.pch
+c000000004C02DA58000000000000008F
+t1275255384
+s143
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TRUECRYPT/GrabLa/InvisiView.h
+c000000004C0FF2DA0000000000000216
+t1276113626
+s534
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TRUECRYPT/GrabLa/InvisiView.m
+c000000004C1DC2E200000000000006DC
+t1277018850
+s1756
+i"InvisiView.h"
+
+N/Volumes/TRUECRYPT/GrabLa/MainWindow.xib
+c000000004C1DC2BE0000000000010F79
+t1277018814
+s69497
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app
+t1277019804
+s4096
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist
+t1276001628
+s713
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+t1277019804
+s19448
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/PkgInfo
+t1276001628
+s8
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1276000292
+s92
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUIHistory.nib
+t1276115200
+s6725
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUILogin.nib
+t1276113512
+s6770
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/MainWindow.nib
+t1277018858
+s13129
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/account.png
+t1277018856
+s1860
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/files.png
+t1277018856
+s948
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/general.png
+t1277018858
+s1717
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/icon.png
+t1277019626
+s530
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/onebit_13.png
+t2
+s0
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/onebit_16.png
+t2
+s0
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/onebit_18.png
+t2
+s0
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/onebit_34.png
+t2
+s0
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/onebit_44.png
+t2
+s0
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.nib
+t1277018858
+s1363
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.png
+t1277018856
+s2397
+
+N/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/updates.png
+t1277018858
+s1794
+
+N/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o
+t1277018880
+s20112
+
+N/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+t1277018880
+s17500
+
+N/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList
+c000000004C1DC2E4000000000000017C
+t1277018852
+s380
+
+N/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+t1277018878
+s17164
+
+N/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+t1277019804
+s16988
+
+N/Volumes/TRUECRYPT/GrabLa/general.png
+c0000000049E0B6F200000000000006B5
+t1239463666
+s1717
+
+N/Volumes/TRUECRYPT/GrabLa/main.m
+c000000004C1DC696000000000000080E
+t1277019798
+s2062
+i<Cocoa/Cocoa.h>
+i"InvisiView.h"
+
+N/Volumes/TRUECRYPT/GrabLa/onebit_34.png
+c0000000049E0B6F20000000000000702
+t1239463666
+s1794
+
+N/Volumes/TRUECRYPT/GrabLa/onebit_44.png
+c0000000049E0B6F200000000000006B5
+t1239463666
+s1717
+
+N/Volumes/TRUECRYPT/GrabLa/support.xib
+c000000004C1D8FCC0000000000001524
+t1277005772
+s5412
+
+N/Volumes/TRUECRYPT/GrabLa/updates.png
+c0000000049E0B6F20000000000000702
+t1239463666
+s1794
+
+N/Volumes/TrueCrypt/GrabLa/English.lproj/InfoPlist.strings
+c000000004C0E37C8000000000000005C
+t1276000200
+s92
+
+N/Volumes/TrueCrypt/GrabLa/GUIHistory.h
+c000000004C0FFDA80000000000000139
+t1276116392
+s313
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TrueCrypt/GrabLa/GUIHistory.m
+c000000004C1019840000000000000377
+t1276123524
+s887
+i"GUIHistory.h"
+
+N/Volumes/TrueCrypt/GrabLa/GUIHistory.xib
+c000000004C0FF8EA000000000000A8E6
+t1276115178
+s43238
+
+N/Volumes/TrueCrypt/GrabLa/GUILogin.h
+c000000004C0FEE8E0000000000000339
+t1276112526
+s825
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TrueCrypt/GrabLa/GUILogin.m
+c000000004C1029580000000000000782
+t1276127576
+s1922
+i"GUILogin.h"
+
+N/Volumes/TrueCrypt/GrabLa/GUILogin.xib
+c000000004C0FD8D6000000000000ABB8
+t1276106966
+s43960
+
+N/Volumes/TrueCrypt/GrabLa/GrabLa_Prefix.pch
+c000000004C02DA58000000000000008F
+t1275255384
+s143
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TrueCrypt/GrabLa/InvisiView.h
+c000000004C0FF2DA0000000000000216
+t1276113626
+s534
+i<Cocoa/Cocoa.h>
+
+N/Volumes/TrueCrypt/GrabLa/InvisiView.m
+c000000004C1DC2E200000000000006DC
+t1277018850
+s1756
+i"InvisiView.h"
+
+N/Volumes/TrueCrypt/GrabLa/MainWindow.xib
+c000000004C1DC2BE0000000000010F79
+t1277018814
+s69497
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app
+t1277037452
+s4096
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist
+t1276001628
+s713
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+t1277037424
+s19420
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/PkgInfo
+t1276001628
+s8
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1276000292
+s92
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUIHistory.nib
+t1276115200
+s6725
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUILogin.nib
+t1276113512
+s6770
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/MainWindow.nib
+t1277018858
+s13129
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/account.png
+t1277018856
+s1860
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/files.png
+t1277018856
+s948
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/general.png
+t1277018858
+s1717
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.nib
+t1277018858
+s1363
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.png
+t1277018856
+s2397
+
+N/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/updates.png
+t1277018858
+s1794
+
+N/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o
+t1277018880
+s20112
+
+N/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+t1277018880
+s17500
+
+N/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList
+c000000004C1E0B2C000000000000017C
+t1277037356
+s380
+
+N/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+t1277018878
+s17164
+
+N/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+t1277037422
+s17372
+
+N/Volumes/TrueCrypt/GrabLa/general.png
+c0000000049E0B6F200000000000006B5
+t1239463666
+s1717
+
+N/Volumes/TrueCrypt/GrabLa/main.m
+c000000004C1E0B68000000000000080E
+t1277037416
+s2062
+i<Cocoa/Cocoa.h>
+i"InvisiView.h"
+
+N/Volumes/TrueCrypt/GrabLa/support.xib
+c000000004C1D8FCC0000000000001524
+t1277005772
+s5412
+
+N/Volumes/TrueCrypt/GrabLa/updates.png
+c0000000049E0B6F20000000000000702
+t1239463666
+s1794
+
+N/Volumes/USB/GrabLa/ContentViewController.h
+c000000004C0E75B600000000000000E7
+t1276016054
+s231
+i<Cocoa/Cocoa.h>
+
+N/Volumes/USB/GrabLa/ContentViewController.m
+c000000004C0E75B600000000000001C5
+t1276016054
+s453
+i"ContentViewController.h"
+
+N/Volumes/USB/GrabLa/English.lproj/InfoPlist.strings
+c000000004C0E37C8000000000000005C
+t1276000200
+s92
+
+N/Volumes/USB/GrabLa/GUIHistory.h
+c000000004C0FFDA80000000000000139
+t1276116392
+s313
+i<Cocoa/Cocoa.h>
+
+N/Volumes/USB/GrabLa/GUIHistory.m
+c000000004C1019840000000000000377
+t1276123524
+s887
+i"GUIHistory.h"
+
+N/Volumes/USB/GrabLa/GUIHistory.xib
+c000000004C0FF8EA000000000000A8E6
+t1276115178
+s43238
+
+N/Volumes/USB/GrabLa/GUILogIn.h
+c000000004C0E664200000000000000CD
+t1276012098
+s205
+i<Cocoa/Cocoa.h>
+
+N/Volumes/USB/GrabLa/GUILogIn.m
+c000000004C0E6642000000000000019E
+t1276012098
+s414
+i"GUILogIn.h"
+
+N/Volumes/USB/GrabLa/GUILogin.h
+c000000004C0FEE8E0000000000000339
+t1276112526
+s825
+i<Cocoa/Cocoa.h>
+
+N/Volumes/USB/GrabLa/GUILogin.m
+c000000004C1021580000000000000776
+t1276125528
+s1910
+i"GUILogin.h"
+
+N/Volumes/USB/GrabLa/GUILogin.xib
+c000000004C0FD8D6000000000000ABB8
+t1276106966
+s43960
+
+N/Volumes/USB/GrabLa/GrabLa_Prefix.pch
+c000000004C02DA58000000000000008F
+t1275255384
+s143
+i<Cocoa/Cocoa.h>
+
+N/Volumes/USB/GrabLa/InvisiView.h
+c000000004C0FF2DA0000000000000216
+t1276113626
+s534
+i<Cocoa/Cocoa.h>
+
+N/Volumes/USB/GrabLa/InvisiView.m
+c000000004C0FF31800000000000006DC
+t1276113688
+s1756
+i"InvisiView.h"
+
+N/Volumes/USB/GrabLa/LogInViewController.m
+c000000004C0EC9CA00000000000000E8
+t1276037578
+s232
+
+N/Volumes/USB/GrabLa/LogInViewController.xib
+c000000004C0E7A140000000000008EAC
+t1276017172
+s36524
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app
+t1276123800
+s4096
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist
+t1276001628
+s713
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+t1276123800
+s19372
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/PkgInfo
+t1276001628
+s8
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1276000292
+s92
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUIHistory.nib
+t1276115200
+s6725
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUILogin.nib
+t1276113512
+s6770
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/LogInViewController.nib
+t1276037522
+s4884
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/onebit_02.png
+t1276014120
+s2625
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/onebit_23.png
+t1276014118
+s2826
+
+N/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/untitled.nib
+t2
+s0
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ContentViewController.o
+t2
+s0
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o
+t1276123588
+s20100
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogIn.o
+t2
+s0
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+t2
+s0
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList
+c000000004C10198A0000000000000164
+t1276123530
+s356
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+t1276113696
+s17152
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/LogInViewController.o
+t1276037580
+s5388
+
+N/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+t1276113630
+s17360
+
+N/Volumes/USB/GrabLa/main.m
+c000000004C0FEE980000000000000786
+t1276112536
+s1926
+i<Cocoa/Cocoa.h>
+i"InvisiView.h"
+
+N/Volumes/USB/GrabLa/onebit_02.png
+c0000000049E0B6EE0000000000000A41
+t1239463662
+s2625
+
+N/Volumes/USB/GrabLa/onebit_23.png
+c0000000049E0B6F00000000000000B0A
+t1239463664
+s2826
+
+N/Volumes/USB/GrabLa/untitled.xib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/English.lproj/InfoPlist.strings
+c000000004C0E37C8000000000000005C
+t1276000200
+s92
+
+N/Volumes/Untitled/GrabLa/GUILogin.h
+c000000004C24343A00000000000004DB
+t1277441082
+s1243
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Untitled/GrabLa/GUILogin.m
+c000000004C24343C00000000000003C8
+t1277441084
+s968
+i"GUILogin.h"
+
+N/Volumes/Untitled/GrabLa/GUILogin.xib
+c000000004C205E2E0000000000005207
+t1277189678
+s20999
+
+N/Volumes/Untitled/GrabLa/GrabLa_Prefix.pch
+c000000004C02DA58000000000000008F
+t1275255384
+s143
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Untitled/GrabLa/HotKey.h
+c000000004C24343E00000000000005CD
+t1277441086
+s1485
+i<Cocoa/Cocoa.h>
+i<Carbon/Carbon.h>
+
+N/Volumes/Untitled/GrabLa/HotKey.m
+c000000004C20F626000000000000049B
+t1277228582
+s1179
+i"HotKey.h"
+
+N/Volumes/Untitled/GrabLa/InvisiView.h
+c000000004C2434FC0000000000000A5A
+t1277441276
+s2650
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Untitled/GrabLa/InvisiView.m
+c000000004C2434FC00000000000015EB
+t1277441276
+s5611
+i"InvisiView.h"
+
+N/Volumes/Untitled/GrabLa/MainWindow.h
+c000000004C2434400000000000000205
+t1277441088
+s517
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Untitled/GrabLa/MainWindow.m
+c000000004C20F62C00000000000001B3
+t1277228588
+s435
+i"MainWindow.h"
+
+N/Volumes/Untitled/GrabLa/MainWindow.xib
+c000000004C1DC2BE0000000000010F79
+t1277018814
+s69497
+
+N/Volumes/Untitled/GrabLa/ScreenGrab.h
+c000000004C243442000000000000028D
+t1277441090
+s653
+i<Cocoa/Cocoa.h>
+
+N/Volumes/Untitled/GrabLa/ScreenGrab.m
+c000000004C2419780000000000000279
+t1277434232
+s633
+i"ScreenGrab.h"
+
+N/Volumes/Untitled/GrabLa/ZipArchive.h
+c000000004C24198A00000000000005A9
+t1277434250
+s1449
+i<UIKit/UIKit.h>
+i"minizip/zip.h"
+i"minizip/unzip.h"
+
+N/Volumes/Untitled/GrabLa/ZipArchive.m
+c000000004C241982000000000000230B
+t1277434242
+s8971
+i"ZipArchive.h"
+i"zlib.h"
+i"zconf.h"
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist
+t1277441542
+s713
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/PkgInfo
+t1277441542
+s8
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1277441544
+s92
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUILogin.nib
+t1277441546
+s6309
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/MainWindow.nib
+t1277441546
+s13129
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/account.png
+t1277441546
+s1860
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/files.png
+t1277441546
+s948
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/general.png
+t1277441546
+s1717
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.png
+t1277441546
+s2397
+
+N/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/updates.png
+t1277441546
+s1794
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList
+c000000004C2436040000000000000294
+t1277441540
+s660
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/HotKey.o
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/MainWindow.o
+t1277441562
+s13112
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ScreenGrab.o
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ZipArchive.o
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/Untitled/GrabLa/general.png
+c0000000049E0B6F200000000000006B5
+t1239463666
+s1717
+
+N/Volumes/Untitled/GrabLa/main.m
+c000000004C20F62E0000000000000539
+t1277228590
+s1337
+i<Cocoa/Cocoa.h>
+i"InvisiView.h"
+
+N/Volumes/Untitled/GrabLa/updates.png
+c0000000049E0B6F20000000000000702
+t1239463666
+s1794
+
+N/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch.gch
+t1276127464
+s36365084
+
+N/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch.gch
+t1276006306
+s36365084
+
+N/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch.gch
+t1277018877
+s36365084
+
+N/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch.gch
+t1277441560
+s38307820
+
+N/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dbcyggtyjzqmbnafqntfssawkred/GrabLa_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-fhhlydpfjektlscqocxbcljseioj/GrabLa_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004C0E3D580000000000000322
+t1276001624
+s802
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299134339#299134342#0(0"0(0#1#0"2514464800#0"0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ContentViewController.o /Volumes/USB/GrabLa/ContentViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o "/Users/Moddy/Desktop/USB BackUP/GrabLa/GUIHistory.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o /Volumes/TRUECRYPT/GrabLa/GUIHistory.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298711679.259254
+e298711681.016985
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o
+x/Volumes/TRUECRYPT/GrabLa/GUIHistory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Volumes/TRUECRYPT/GrabLa/GUIHistory.m298711679#298711681#0(0"0(0#0#38"/Volumes/TRUECRYPT/GrabLa/GUIHistory.m2514464800#1291"    cd /Volumes/TRUECRYPT/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TRUECRYPT/GrabLa/build/Debug -I/Volumes/TRUECRYPT/GrabLa/build/Debug/include -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch -c /Volumes/TRUECRYPT/GrabLa/GUIHistory.m -o /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o /Volumes/TrueCrypt/GrabLa/GUIHistory.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820265.899416
+e297820266.489299
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o
+x/Volumes/TrueCrypt/GrabLa/GUIHistory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Volumes/TrueCrypt/GrabLa/GUIHistory.m297820265#297820266#0(0"0(0#0#38"/Volumes/TrueCrypt/GrabLa/GUIHistory.m2514464800#1291"    cd /Volumes/TrueCrypt/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TrueCrypt/GrabLa/build/Debug -I/Volumes/TrueCrypt/GrabLa/build/Debug/include -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch -c /Volumes/TrueCrypt/GrabLa/GUIHistory.m -o /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o /Volumes/USB/GrabLa/GUIHistory.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297816338.279171
+e297816388.673600
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o
+x/Volumes/USB/GrabLa/GUIHistory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Volumes/USB/GrabLa/GUIHistory.m297816338#297816388#0(0"0(0#0#32"/Volumes/USB/GrabLa/GUIHistory.m2514464800#1225"    cd /Volumes/USB/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/USB/GrabLa/build/Debug -I/Volumes/USB/GrabLa/build/Debug/include -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch -c /Volumes/USB/GrabLa/GUIHistory.m -o /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUIHistory.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogIn.o /Volumes/USB/GrabLa/GUILogIn.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o "/Users/Moddy/Desktop/USB BackUP/GrabLa/GUILogin.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o /Volumes/TRUECRYPT/GrabLa/GUILogin.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298711679.254317
+e298711681.905628
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+x/Volumes/TRUECRYPT/GrabLa/GUILogin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: 'NSString' may not respond to '+initWithFormat:'
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: (Messages without a matching method signature
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: will be assumed to return 'id' and accept
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: '...' as arguments.)
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:38: warning: 'NSString' may not respond to '+initWithFormat:'
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:38: warning: 'NSURL' may not respond to '+initWithString:'
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:38: warning: 'NSMutableURLRequest' may not respond to '+initWithURL:'
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:49: warning: 'NSString' may not respond to '+initWithdata:'
+o/Volumes/TRUECRYPT/GrabLa/GUILogin.m:49: warning: unused variable 'auth'
+lSLF07#2@44"Compile /Volumes/TRUECRYPT/GrabLa/GUILogin.m298711679#298711681#0(902"/Volumes/TRUECRYPT/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: 'NSString' may not respond to '+initWithFormat:'/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: (Messages without a matching method signature/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: will be assumed to return 'id' and accept/Volumes/TRUECRYPT/GrabLa/GUILogin.m:33: warning: '...' as arguments.)/Volumes/TRUECRYPT/GrabLa/GUILogin.m:38: warning: 'NSString' may not respond to '+initWithFormat:'/Volumes/TRUECRYPT/GrabLa/GUILogin.m:38: warning: 'NSURL' may not respond to '+initWithString:'/Volumes/TRUECRYPT/GrabLa/GUILogin.m:38: warning: 'NSMutableURLRequest' may not respond to '+initWithURL:'/Volumes/TRUECRYPT/GrabLa/GUILogin.m:49: warning: 'NSString' may not respond to '+initWithdata:'/Volumes/TRUECRYPT/GrabLa/GUILogin.m:49: warning: unused variable 'auth'7(22@48"'NSString' may not respond to '+initWithFormat:'298711680#72#99#0(6@36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m297820376#33#0#33#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)298711680#171#96#0(6@36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m297820376#33#0#33#0#0"0(22@48"'NSString' may not respond to '+initWithFormat:'298711680#430#99#0(6@36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m297820376#38#0#38#0#26"'*' may not respond to '*'0(22@45"'NSURL' may not respond to '+initWithString:'298711680#529#96#0(6@36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m297820376#38#0#38#0#26"'*' may not respond to '*'0(22@56"'NSMutableURLRequest' may not respond to '+initWithURL:'298711680#625#107#0(6@36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m297820376#38#0#38#0#26"'*' may not respond to '*'0(22@46"'NSString' may not respond to '+initWithdata:'298711680#732#97#0(6@36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m297820376#49#0#49#0#26"'*' may not respond to '*'0(22@22"Unused variable 'auth'298711680#829#73#0(6@36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m297820376#49#0#49#0#19"unused variable '*'0(0#0#36"/Volumes/TRUECRYPT/GrabLa/GUILogin.m4386904#1287"    cd /Volumes/TRUECRYPT/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TRUECRYPT/GrabLa/build/Debug -I/Volumes/TRUECRYPT/GrabLa/build/Debug/include -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch -c /Volumes/TRUECRYPT/GrabLa/GUILogin.m -o /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o /Volumes/TrueCrypt/GrabLa/GUILogin.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820378.125777
+e297820379.130623
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+x/Volumes/TrueCrypt/GrabLa/GUILogin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: 'NSString' may not respond to '+initWithFormat:'
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: (Messages without a matching method signature
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: will be assumed to return 'id' and accept
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: '...' as arguments.)
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:38: warning: 'NSString' may not respond to '+initWithFormat:'
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:38: warning: 'NSURL' may not respond to '+initWithString:'
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:38: warning: 'NSMutableURLRequest' may not respond to '+initWithURL:'
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:49: warning: 'NSString' may not respond to '+initWithdata:'
+o/Volumes/TrueCrypt/GrabLa/GUILogin.m:49: warning: unused variable 'auth'
+lSLF07#2@44"Compile /Volumes/TrueCrypt/GrabLa/GUILogin.m297820378#297820379#0(902"/Volumes/TrueCrypt/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: 'NSString' may not respond to '+initWithFormat:'/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: (Messages without a matching method signature/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: will be assumed to return 'id' and accept/Volumes/TrueCrypt/GrabLa/GUILogin.m:33: warning: '...' as arguments.)/Volumes/TrueCrypt/GrabLa/GUILogin.m:38: warning: 'NSString' may not respond to '+initWithFormat:'/Volumes/TrueCrypt/GrabLa/GUILogin.m:38: warning: 'NSURL' may not respond to '+initWithString:'/Volumes/TrueCrypt/GrabLa/GUILogin.m:38: warning: 'NSMutableURLRequest' may not respond to '+initWithURL:'/Volumes/TrueCrypt/GrabLa/GUILogin.m:49: warning: 'NSString' may not respond to '+initWithdata:'/Volumes/TrueCrypt/GrabLa/GUILogin.m:49: warning: unused variable 'auth'7(22@48"'NSString' may not respond to '+initWithFormat:'297820378#72#99#0(6@36"/Volumes/TrueCrypt/GrabLa/GUILogin.m297820376#33#0#33#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)297820378#171#96#0(6@36"/Volumes/TrueCrypt/GrabLa/GUILogin.m297820376#33#0#33#0#0"0(22@48"'NSString' may not respond to '+initWithFormat:'297820378#430#99#0(6@36"/Volumes/TrueCrypt/GrabLa/GUILogin.m297820376#38#0#38#0#26"'*' may not respond to '*'0(22@45"'NSURL' may not respond to '+initWithString:'297820378#529#96#0(6@36"/Volumes/TrueCrypt/GrabLa/GUILogin.m297820376#38#0#38#0#26"'*' may not respond to '*'0(22@56"'NSMutableURLRequest' may not respond to '+initWithURL:'297820378#625#107#0(6@36"/Volumes/TrueCrypt/GrabLa/GUILogin.m297820376#38#0#38#0#26"'*' may not respond to '*'0(22@46"'NSString' may not respond to '+initWithdata:'297820378#732#97#0(6@36"/Volumes/TrueCrypt/GrabLa/GUILogin.m297820376#49#0#49#0#26"'*' may not respond to '*'0(22@22"Unused variable 'auth'297820378#829#73#0(6@36"/Volumes/TrueCrypt/GrabLa/GUILogin.m297820376#49#0#49#0#19"unused variable '*'0(0#0#36"/Volumes/TrueCrypt/GrabLa/GUILogin.m2514464800#1287"    cd /Volumes/TrueCrypt/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TrueCrypt/GrabLa/build/Debug -I/Volumes/TrueCrypt/GrabLa/build/Debug/include -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch -c /Volumes/TrueCrypt/GrabLa/GUILogin.m -o /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o /Volumes/USB/GrabLa/GUILogin.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297818331.703965
+e297818348.758030
+r0
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+x/Volumes/USB/GrabLa/GUILogin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/USB/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':
+o/Volumes/USB/GrabLa/GUILogin.m:33: warning: 'NSString' may not respond to '+initWithFormat:'
+o/Volumes/USB/GrabLa/GUILogin.m:33: warning: (Messages without a matching method signature
+o/Volumes/USB/GrabLa/GUILogin.m:33: warning: will be assumed to return 'id' and accept
+o/Volumes/USB/GrabLa/GUILogin.m:33: warning: '...' as arguments.)
+o/Volumes/USB/GrabLa/GUILogin.m:38: warning: 'NSString' may not respond to '+initWithFormat:'
+o/Volumes/USB/GrabLa/GUILogin.m:38: warning: 'NSURL' may not respond to '+initWithString:'
+o/Volumes/USB/GrabLa/GUILogin.m:38: warning: 'NSMutableURLRequest' may not respond to '+initWithURL:'
+o/Volumes/USB/GrabLa/GUILogin.m:49: warning: 'NSString' may not respond to '+initWithdata:'
+o/Volumes/USB/GrabLa/GUILogin.m:55: error: invalid operands to binary != (have 'NSRange' and 'int')
+lSLF07#2@38"Compile /Volumes/USB/GrabLa/GUILogin.m297818331#297818348#0(874"/Volumes/USB/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':/Volumes/USB/GrabLa/GUILogin.m:33: warning: 'NSString' may not respond to '+initWithFormat:'/Volumes/USB/GrabLa/GUILogin.m:33: warning: (Messages without a matching method signature/Volumes/USB/GrabLa/GUILogin.m:33: warning: will be assumed to return 'id' and accept/Volumes/USB/GrabLa/GUILogin.m:33: warning: '...' as arguments.)/Volumes/USB/GrabLa/GUILogin.m:38: warning: 'NSString' may not respond to '+initWithFormat:'/Volumes/USB/GrabLa/GUILogin.m:38: warning: 'NSURL' may not respond to '+initWithString:'/Volumes/USB/GrabLa/GUILogin.m:38: warning: 'NSMutableURLRequest' may not respond to '+initWithURL:'/Volumes/USB/GrabLa/GUILogin.m:49: warning: 'NSString' may not respond to '+initWithdata:'/Volumes/USB/GrabLa/GUILogin.m:55: error: invalid operands to binary != (have 'NSRange' and 'int')7(22@48"'NSString' may not respond to '+initWithFormat:'297818336#66#93#0(6@30"/Volumes/USB/GrabLa/GUILogin.m297818328#33#0#33#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)297818336#159#90#0(6@30"/Volumes/USB/GrabLa/GUILogin.m297818328#33#0#33#0#0"0(22@48"'NSString' may not respond to '+initWithFormat:'297818336#400#93#0(6@30"/Volumes/USB/GrabLa/GUILogin.m297818328#38#0#38#0#26"'*' may not respond to '*'0(22@45"'NSURL' may not respond to '+initWithString:'297818336#493#90#0(6@30"/Volumes/USB/GrabLa/GUILogin.m297818328#38#0#38#0#26"'*' may not respond to '*'0(22@56"'NSMutableURLRequest' may not respond to '+initWithURL:'297818336#583#101#0(6@30"/Volumes/USB/GrabLa/GUILogin.m297818328#38#0#38#0#26"'*' may not respond to '*'0(22@46"'NSString' may not respond to '+initWithdata:'297818336#684#91#0(6@30"/Volumes/USB/GrabLa/GUILogin.m297818328#49#0#49#0#26"'*' may not respond to '*'0(4@56"Invalid operands to binary != (have 'NSRange' and 'int')297818336#775#99#0(6@30"/Volumes/USB/GrabLa/GUILogin.m297818328#55#0#55#0#0"0(0#0#30"/Volumes/USB/GrabLa/GUILogin.m2514464800#1221"    cd /Volumes/USB/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/USB/GrabLa/build/Debug -I/Volumes/USB/GrabLa/build/Debug/include -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch -c /Volumes/USB/GrabLa/GUILogin.m -o /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o1#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o /Volumes/Untitled/GrabLa/GUILogin.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134362.051571
+e299134362.478545
+r0
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o
+x/Volumes/Untitled/GrabLa/GUILogin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Untitled/GrabLa/GUILogin.m: In function '-[GUILogin initWithParent:]':
+o/Volumes/Untitled/GrabLa/GUILogin.m:23: error: expected ';' before 'owner'
+o/Volumes/Untitled/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':
+o/Volumes/Untitled/GrabLa/GUILogin.m:32: error: expected expression before '_Bool'
+o/Volumes/Untitled/GrabLa/GUILogin.m:33: error: expected identifier or '(' before '=' token
+o/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: no '-setPassword:' method found
+o/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: (Messages without a matching method signature
+o/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: will be assumed to return 'id' and accept
+o/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: '...' as arguments.)
+o/Volumes/Untitled/GrabLa/GUILogin.m:37: warning: no '-setUsername:' method found
+o/Volumes/Untitled/GrabLa/GUILogin.m:38: warning: no '-setRemember:' method found
+lSLF07#2@43"Compile /Volumes/Untitled/GrabLa/GUILogin.m299134362#299134363#0(898"/Volumes/Untitled/GrabLa/GUILogin.m: In function '-[GUILogin initWithParent:]':/Volumes/Untitled/GrabLa/GUILogin.m:23: error: expected ';' before 'owner'/Volumes/Untitled/GrabLa/GUILogin.m: In function '-[GUILogin logIn:]':/Volumes/Untitled/GrabLa/GUILogin.m:32: error: expected expression before '_Bool'/Volumes/Untitled/GrabLa/GUILogin.m:33: error: expected identifier or '(' before '=' token/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: no '-setPassword:' method found/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: (Messages without a matching method signature/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: will be assumed to return 'id' and accept/Volumes/Untitled/GrabLa/GUILogin.m:36: warning: '...' as arguments.)/Volumes/Untitled/GrabLa/GUILogin.m:37: warning: no '-setUsername:' method found/Volumes/Untitled/GrabLa/GUILogin.m:38: warning: no '-setRemember:' method found7(4@27"Expected ';' before 'owner'299134362#80#75#0(6@35"/Volumes/Untitled/GrabLa/GUILogin.m299133884#23#0#23#0#19"expected * before *0(4@34"Expected expression before '_Bool'299134362#226#82#0(6@35"/Volumes/Untitled/GrabLa/GUILogin.m299133884#32#0#32#0#19"expected * before *0(4@43"Expected identifier or '(' before '=' token299134362#308#91#0(6@35"/Volumes/Untitled/GrabLa/GUILogin.m299133884#33#0#33#0#19"expected * before *0(22@31"No '-setPassword:' method found299134362#399#81#0(6@35"/Volumes/Untitled/GrabLa/GUILogin.m299133884#36#0#36#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)299134362#480#95#0(6@35"/Volumes/Untitled/GrabLa/GUILogin.m299133884#36#0#36#0#0"0(22@31"No '-setUsername:' method found299134362#736#81#0(6@35"/Volumes/Untitled/GrabLa/GUILogin.m299133884#37#0#37#0#19"no '*' method found0(22@31"No '-setRemember:' method found299134362#817#81#0(6@35"/Volumes/Untitled/GrabLa/GUILogin.m299133884#38#0#38#0#19"no '*' method found0(0#0#35"/Volumes/Untitled/GrabLa/GUILogin.m2514464800#1276"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch -c /Volumes/Untitled/GrabLa/GUILogin.m -o /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GUILogin.o1#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/HotKey.o /Volumes/Untitled/GrabLa/HotKey.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134362.998998
+e299134365.537294
+r0
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/HotKey.o
+x/Volumes/Untitled/GrabLa/HotKey.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/Untitled/GrabLa/HotKey.m: In function '-[HotKey initWithKey:modifierFlags:sender:callback_id:HotKeyID:]':
+o/Volumes/Untitled/GrabLa/HotKey.m:19: warning: assignment makes pointer from integer without a cast
+o/Volumes/Untitled/GrabLa/HotKey.m:20: warning: assignment from incompatible pointer type
+o/Volumes/Untitled/GrabLa/HotKey.m:21: warning: assignment makes pointer from integer without a cast
+o/Volumes/Untitled/GrabLa/HotKey.m:25: error: 'EventHotKeyId' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/HotKey.m:25: error: (Each undeclared identifier is reported only once
+o/Volumes/Untitled/GrabLa/HotKey.m:25: error: for each function it appears in.)
+o/Volumes/Untitled/GrabLa/HotKey.m:27: error: expected ';' before 'return'
+o/Volumes/Untitled/GrabLa/HotKey.m:28: warning: control reaches end of non-void function
+o/Volumes/Untitled/GrabLa/HotKey.m: In function '-[HotKey translateModifierFlags:]':
+o/Volumes/Untitled/GrabLa/HotKey.m:37: error: 'oldflags' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/HotKey.m:37: error: invalid operands to binary | (have 'NSUInteger *' and 'int')
+o/Volumes/Untitled/GrabLa/HotKey.m:38: error: invalid operands to binary | (have 'NSUInteger *' and 'int')
+o/Volumes/Untitled/GrabLa/HotKey.m:39: error: invalid operands to binary | (have 'NSUInteger *' and 'int')
+o/Volumes/Untitled/GrabLa/HotKey.m:40: error: invalid operands to binary | (have 'NSUInteger *' and 'int')
+o/Volumes/Untitled/GrabLa/HotKey.m:42: warning: return makes integer from pointer without a cast
+o/Volumes/Untitled/GrabLa/HotKey.m: At top level:
+o/Volumes/Untitled/GrabLa/HotKey.m:45: warning: incomplete implementation of class 'HotKey'
+o/Volumes/Untitled/GrabLa/HotKey.m:45: warning: method definition for '-initWithKey:modifierFlags:sender:callback_id:' not found
+lSLF07#2@41"Compile /Volumes/Untitled/GrabLa/HotKey.m299134363#299134365#0(1809"/Volumes/Untitled/GrabLa/HotKey.m: In function '-[HotKey initWithKey:modifierFlags:sender:callback_id:HotKeyID:]':/Volumes/Untitled/GrabLa/HotKey.m:19: warning: assignment makes pointer from integer without a cast/Volumes/Untitled/GrabLa/HotKey.m:20: warning: assignment from incompatible pointer type/Volumes/Untitled/GrabLa/HotKey.m:21: warning: assignment makes pointer from integer without a cast/Volumes/Untitled/GrabLa/HotKey.m:25: error: 'EventHotKeyId' undeclared (first use in this function)/Volumes/Untitled/GrabLa/HotKey.m:25: error: (Each undeclared identifier is reported only once/Volumes/Untitled/GrabLa/HotKey.m:25: error: for each function it appears in.)/Volumes/Untitled/GrabLa/HotKey.m:27: error: expected ';' before 'return'/Volumes/Untitled/GrabLa/HotKey.m:28: warning: control reaches end of non-void function/Volumes/Untitled/GrabLa/HotKey.m: In function '-[HotKey translateModifierFlags:]':/Volumes/Untitled/GrabLa/HotKey.m:37: error: 'oldflags' undeclared (first use in this function)/Volumes/Untitled/GrabLa/HotKey.m:37: error: invalid operands to binary | (have 'NSUInteger *' and 'int')/Volumes/Untitled/GrabLa/HotKey.m:38: error: invalid operands to binary | (have 'NSUInteger *' and 'int')/Volumes/Untitled/GrabLa/HotKey.m:39: error: invalid operands to binary | (have 'NSUInteger *' and 'int')/Volumes/Untitled/GrabLa/HotKey.m:40: error: invalid operands to binary | (have 'NSUInteger *' and 'int')/Volumes/Untitled/GrabLa/HotKey.m:42: warning: return makes integer from pointer without a cast/Volumes/Untitled/GrabLa/HotKey.m: At top level:/Volumes/Untitled/GrabLa/HotKey.m:45: warning: incomplete implementation of class 'HotKey'/Volumes/Untitled/GrabLa/HotKey.m:45: warning: method definition for '-initWithKey:modifierFlags:sender:callback_id:' not found15(22@52"Assignment makes pointer from integer without a cast299134364#115#100#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#19#0#19#0#0"0(22@41"Assignment from incompatible pointer type299134364#215#89#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#20#0#20#0#41"assignment from incompatible pointer type0(22@52"Assignment makes pointer from integer without a cast299134364#304#100#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#21#0#21#0#0"0(4@55"'EventHotKeyId' undeclared (first use in this function)299134364#404#101#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#25#0#25#0#43"'*' undeclared (first use in this function)0(4@28"Expected ';' before 'return'299134364#679#74#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#27#0#27#0#19"expected * before *0(22@40"Control reaches end of non-void function299134364#753#88#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#28#0#28#0#40"control reaches end of non-void function0(4@50"'oldflags' undeclared (first use in this function)299134364#925#96#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#37#0#37#0#43"'*' undeclared (first use in this function)0(4@60"Invalid operands to binary | (have 'NSUInteger *' and 'int')299134364#1021#106#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#37#0#37#0#0"0(4@60"Invalid operands to binary | (have 'NSUInteger *' and 'int')299134364#1127#106#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#38#0#38#0#0"0(4@60"Invalid operands to binary | (have 'NSUInteger *' and 'int')299134364#1233#106#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#39#0#39#0#0"0(4@60"Invalid operands to binary | (have 'NSUInteger *' and 'int')299134364#1339#106#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#40#0#40#0#0"0(22@48"Return makes integer from pointer without a cast299134364#1445#96#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#42#0#42#0#0"0(23@13"At top level:299134364#1541#49#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#0#0#0#0#0"0(22@43"Incomplete implementation of class 'HotKey'299134364#1590#91#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#45#0#45#0#38"incomplete implementation of class '*'0(22@80"Method definition for '-initWithKey:modifierFlags:sender:callback_id:' not found299134364#1681#128#0(6@33"/Volumes/Untitled/GrabLa/HotKey.m298921382#45#0#45#0#35"method definition for '*' not found0(0#0#33"/Volumes/Untitled/GrabLa/HotKey.m2514464800#1272"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch -c /Volumes/Untitled/GrabLa/HotKey.m -o /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/HotKey.o1#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o "/Users/Moddy/Desktop/USB BackUP/GrabLa/InvisiView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o /Volumes/TRUECRYPT/GrabLa/InvisiView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298711678.511443
+e298711679.253562
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+x/Volumes/TRUECRYPT/GrabLa/InvisiView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/TRUECRYPT/GrabLa/InvisiView.m: In function '-[InvisiView draggingEntered:]':
+o/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: 'NSPasteboard' may not respond to '-pasteboardItems'
+o/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: (Messages without a matching method signature
+o/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: will be assumed to return 'id' and accept
+o/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: '...' as arguments.)
+lSLF07#2@46"Compile /Volumes/TRUECRYPT/GrabLa/InvisiView.m298711678#298711679#0(456"/Volumes/TRUECRYPT/GrabLa/InvisiView.m: In function '-[InvisiView draggingEntered:]':/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: 'NSPasteboard' may not respond to '-pasteboardItems'/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: (Messages without a matching method signature/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: will be assumed to return 'id' and accept/Volumes/TRUECRYPT/GrabLa/InvisiView.m:58: warning: '...' as arguments.)2(22@52"'NSPasteboard' may not respond to '-pasteboardItems'298711679#86#105#0(6@38"/Volumes/TRUECRYPT/GrabLa/InvisiView.m298711650#58#0#58#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)298711679#191#98#0(6@38"/Volumes/TRUECRYPT/GrabLa/InvisiView.m298711650#58#0#58#0#0"0(0#0#38"/Volumes/TRUECRYPT/GrabLa/InvisiView.m2514464800#1291"    cd /Volumes/TRUECRYPT/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TRUECRYPT/GrabLa/build/Debug -I/Volumes/TRUECRYPT/GrabLa/build/Debug/include -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch -c /Volumes/TRUECRYPT/GrabLa/InvisiView.m -o /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o /Volumes/TrueCrypt/GrabLa/InvisiView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820265.107907
+e297820265.894911
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+x/Volumes/TrueCrypt/GrabLa/InvisiView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/TrueCrypt/GrabLa/InvisiView.m: In function '-[InvisiView draggingEntered:]':
+o/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: 'NSPasteboard' may not respond to '-pasteboardItems'
+o/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: (Messages without a matching method signature
+o/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: will be assumed to return 'id' and accept
+o/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: '...' as arguments.)
+lSLF07#2@46"Compile /Volumes/TrueCrypt/GrabLa/InvisiView.m297820265#297820265#0(456"/Volumes/TrueCrypt/GrabLa/InvisiView.m: In function '-[InvisiView draggingEntered:]':/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: 'NSPasteboard' may not respond to '-pasteboardItems'/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: (Messages without a matching method signature/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: will be assumed to return 'id' and accept/Volumes/TrueCrypt/GrabLa/InvisiView.m:58: warning: '...' as arguments.)2(22@52"'NSPasteboard' may not respond to '-pasteboardItems'297820265#86#105#0(6@38"/Volumes/TrueCrypt/GrabLa/InvisiView.m297806488#58#0#58#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)297820265#191#98#0(6@38"/Volumes/TrueCrypt/GrabLa/InvisiView.m297806488#58#0#58#0#0"0(0#0#38"/Volumes/TrueCrypt/GrabLa/InvisiView.m2514464800#1291"    cd /Volumes/TrueCrypt/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TrueCrypt/GrabLa/build/Debug -I/Volumes/TrueCrypt/GrabLa/build/Debug/include -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch -c /Volumes/TrueCrypt/GrabLa/InvisiView.m -o /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o /Volumes/USB/GrabLa/InvisiView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297806494.247683
+e297806496.525040
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+x/Volumes/USB/GrabLa/InvisiView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/USB/GrabLa/InvisiView.m: In function '-[InvisiView draggingEntered:]':
+o/Volumes/USB/GrabLa/InvisiView.m:58: warning: 'NSPasteboard' may not respond to '-pasteboardItems'
+o/Volumes/USB/GrabLa/InvisiView.m:58: warning: (Messages without a matching method signature
+o/Volumes/USB/GrabLa/InvisiView.m:58: warning: will be assumed to return 'id' and accept
+o/Volumes/USB/GrabLa/InvisiView.m:58: warning: '...' as arguments.)
+lSLF07#2@40"Compile /Volumes/USB/GrabLa/InvisiView.m297806494#297806498#0(426"/Volumes/USB/GrabLa/InvisiView.m: In function '-[InvisiView draggingEntered:]':/Volumes/USB/GrabLa/InvisiView.m:58: warning: 'NSPasteboard' may not respond to '-pasteboardItems'/Volumes/USB/GrabLa/InvisiView.m:58: warning: (Messages without a matching method signature/Volumes/USB/GrabLa/InvisiView.m:58: warning: will be assumed to return 'id' and accept/Volumes/USB/GrabLa/InvisiView.m:58: warning: '...' as arguments.)2(22@52"'NSPasteboard' may not respond to '-pasteboardItems'297806495#80#99#0(6@32"/Volumes/USB/GrabLa/InvisiView.m297806488#58#0#58#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)297806495#179#92#0(6@32"/Volumes/USB/GrabLa/InvisiView.m297806488#58#0#58#0#0"0(0#0#32"/Volumes/USB/GrabLa/InvisiView.m2514464800#1225"    cd /Volumes/USB/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/USB/GrabLa/build/Debug -I/Volumes/USB/GrabLa/build/Debug/include -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch -c /Volumes/USB/GrabLa/InvisiView.m -o /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o /Volumes/Untitled/GrabLa/InvisiView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134361.382046
+e299134362.051125
+r0
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o
+x/Volumes/Untitled/GrabLa/InvisiView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Volumes/Untitled/GrabLa/InvisiView.m:21:
+o/Volumes/Untitled/GrabLa/InvisiView.h:22: error: cannot find protocol declaration for 'ZipArchiveDelegate'
+o/Volumes/Untitled/GrabLa/InvisiView.h:48: error: expected ';' before '(' token
+o/Volumes/Untitled/GrabLa/InvisiView.h:74: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.h:81: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView init]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:37: error: 'view' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m:37: error: (Each undeclared identifier is reported only once
+o/Volumes/Untitled/GrabLa/InvisiView.m:37: error: for each function it appears in.)
+o/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: 'NSUserDefaults' may not respond to '-intForKey:'
+o/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: (Messages without a matching method signature
+o/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: will be assumed to return 'id' and accept
+o/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: '...' as arguments.)
+o/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: passing argument 1 of 'numberWithInt:' makes integer from pointer without a cast
+o/Volumes/Untitled/GrabLa/InvisiView.m:47: warning: assignment makes pointer from integer without a cast
+o/Volumes/Untitled/GrabLa/InvisiView.m:49: error: 'screenKey' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m:49: error: 'HotKey' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m:50: error: 'modifier' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m:55: error: 'password' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m:61: warning: implicit declaration of function 'logIn'
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView recvHotKeyEvent:]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:74: error: expected expression before 'NSBitmapImageRep'
+o/Volumes/Untitled/GrabLa/InvisiView.m:77: error: 'screencap' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m:84: warning: comparison between pointer and integer
+o/Volumes/Untitled/GrabLa/InvisiView.m:87: error: incompatible type for argument 1 of 'uploadFile:'
+o/Volumes/Untitled/GrabLa/InvisiView.m:90: warning: 'NSFileManager' may not respond to '+removeItemAtPath:error:'
+o/Volumes/Untitled/GrabLa/InvisiView.m:91: warning: comparison between pointer and integer
+o/Volumes/Untitled/GrabLa/InvisiView.m:91: error: duplicate label 'NSLog'
+o/Volumes/Untitled/GrabLa/InvisiView.m:84: error: previous definition of 'NSLog' was here
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView gotFiles]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:107: error: incompatible type for argument 1 of 'zipFiles:'
+o/Volumes/Untitled/GrabLa/InvisiView.m:112: error: incompatible type for argument 1 of 'uploadFile:'
+o/Volumes/Untitled/GrabLa/InvisiView.m: At top level:
+o/Volumes/Untitled/GrabLa/InvisiView.m:116: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView uploadFile:]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:117: error: incompatible type for argument 1 of 'NSLog'
+o/Volumes/Untitled/GrabLa/InvisiView.m:117: warning: format not a string literal and no format arguments
+o/Volumes/Untitled/GrabLa/InvisiView.m: At top level:
+o/Volumes/Untitled/GrabLa/InvisiView.m:125: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.m:132: error: expected '{' before '(' token
+o/Volumes/Untitled/GrabLa/InvisiView.m:135: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView setRemember:]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:136: error: incompatible types in assignment
+o/Volumes/Untitled/GrabLa/InvisiView.m: At top level:
+o/Volumes/Untitled/GrabLa/InvisiView.m:138: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView setUsername:]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:139: error: incompatible types in assignment
+o/Volumes/Untitled/GrabLa/InvisiView.m: At top level:
+o/Volumes/Untitled/GrabLa/InvisiView.m:141: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView setPassword:]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:142: error: 'password' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView rightMouseDown:]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:167: error: 'MainWindow' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m:167: error: 'main' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView ErrorMessage:]':
+o/Volumes/Untitled/GrabLa/InvisiView.m:179: warning: format not a string literal and no format arguments
+o/Volumes/Untitled/GrabLa/InvisiView.m: At top level:
+o/Volumes/Untitled/GrabLa/InvisiView.m:182: warning: incomplete implementation of class 'InvisiView'
+o/Volumes/Untitled/GrabLa/InvisiView.m:182: warning: method definition for '-showLogin' not found
+o/Volumes/Untitled/GrabLa/InvisiView.m:182: warning: method definition for '-hotKeyCallback' not found
+lSLF07#2@45"Compile /Volumes/Untitled/GrabLa/InvisiView.m299134361#299134362#0(5380"In file included from /Volumes/Untitled/GrabLa/InvisiView.m:21:/Volumes/Untitled/GrabLa/InvisiView.h:22: error: cannot find protocol declaration for 'ZipArchiveDelegate'/Volumes/Untitled/GrabLa/InvisiView.h:48: error: expected ';' before '(' token/Volumes/Untitled/GrabLa/InvisiView.h:74: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.h:81: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView init]':/Volumes/Untitled/GrabLa/InvisiView.m:37: error: 'view' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m:37: error: (Each undeclared identifier is reported only once/Volumes/Untitled/GrabLa/InvisiView.m:37: error: for each function it appears in.)/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: 'NSUserDefaults' may not respond to '-intForKey:'/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: (Messages without a matching method signature/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: will be assumed to return 'id' and accept/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: '...' as arguments.)/Volumes/Untitled/GrabLa/InvisiView.m:45: warning: passing argument 1 of 'numberWithInt:' makes integer from pointer without a cast/Volumes/Untitled/GrabLa/InvisiView.m:47: warning: assignment makes pointer from integer without a cast/Volumes/Untitled/GrabLa/InvisiView.m:49: error: 'screenKey' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m:49: error: 'HotKey' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m:50: error: 'modifier' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m:55: error: 'password' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m:61: warning: implicit declaration of function 'logIn'/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView recvHotKeyEvent:]':/Volumes/Untitled/GrabLa/InvisiView.m:74: error: expected expression before 'NSBitmapImageRep'/Volumes/Untitled/GrabLa/InvisiView.m:77: error: 'screencap' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m:84: warning: comparison between pointer and integer/Volumes/Untitled/GrabLa/InvisiView.m:87: error: incompatible type for argument 1 of 'uploadFile:'/Volumes/Untitled/GrabLa/InvisiView.m:90: warning: 'NSFileManager' may not respond to '+removeItemAtPath:error:'/Volumes/Untitled/GrabLa/InvisiView.m:91: warning: comparison between pointer and integer/Volumes/Untitled/GrabLa/InvisiView.m:91: error: duplicate label 'NSLog'/Volumes/Untitled/GrabLa/InvisiView.m:84: error: previous definition of 'NSLog' was here/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView gotFiles]':/Volumes/Untitled/GrabLa/InvisiView.m:107: error: incompatible type for argument 1 of 'zipFiles:'/Volumes/Untitled/GrabLa/InvisiView.m:112: error: incompatible type for argument 1 of 'uploadFile:'/Volumes/Untitled/GrabLa/InvisiView.m: At top level:/Volumes/Untitled/GrabLa/InvisiView.m:116: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView uploadFile:]':/Volumes/Untitled/GrabLa/InvisiView.m:117: error: incompatible type for argument 1 of 'NSLog'/Volumes/Untitled/GrabLa/InvisiView.m:117: warning: format not a string literal and no format arguments/Volumes/Untitled/GrabLa/InvisiView.m: At top level:/Volumes/Untitled/GrabLa/InvisiView.m:125: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.m:132: error: expected '{' before '(' token/Volumes/Untitled/GrabLa/InvisiView.m:135: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView setRemember:]':/Volumes/Untitled/GrabLa/InvisiView.m:136: error: incompatible types in assignment/Volumes/Untitled/GrabLa/InvisiView.m: At top level:/Volumes/Untitled/GrabLa/InvisiView.m:138: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView setUsername:]':/Volumes/Untitled/GrabLa/InvisiView.m:139: error: incompatible types in assignment/Volumes/Untitled/GrabLa/InvisiView.m: At top level:/Volumes/Untitled/GrabLa/InvisiView.m:141: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView setPassword:]':/Volumes/Untitled/GrabLa/InvisiView.m:142: error: 'password' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView rightMouseDown:]':/Volumes/Untitled/GrabLa/InvisiView.m:167: error: 'MainWindow' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m:167: error: 'main' undeclared (first use in this function)/Volumes/Untitled/GrabLa/InvisiView.m: In function '-[InvisiView ErrorMessage:]':/Volumes/Untitled/GrabLa/InvisiView.m:179: warning: format not a string literal and no format arguments/Volumes/Untitled/GrabLa/InvisiView.m: At top level:/Volumes/Untitled/GrabLa/InvisiView.m:182: warning: incomplete implementation of class 'InvisiView'/Volumes/Untitled/GrabLa/InvisiView.m:182: warning: method definition for '-showLogin' not found/Volumes/Untitled/GrabLa/InvisiView.m:182: warning: method definition for '-hotKeyCallback' not found46(4@57"Cannot find protocol declaration for 'ZipArchiveDelegate'299134361#64#107#2(7@59"In file included from /Volumes/Untitled/GrabLa/InvisiView.m299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#21#0#21#0#0"0(13@98"Cannot find protocol declaration for 'ZipArchiveDelegate' in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#22#0#22#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#22#0#22#0#0"0(4@29"Expected ';' before '(' token299134361#171#79#2(7@59"In file included from /Volumes/Untitled/GrabLa/InvisiView.m299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#21#0#21#0#0"0(13@70"Expected ';' before '(' token in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#48#0#48#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#48#0#48#0#19"expected * before *0(4@46"Can not use an object as parameter to a method299134361#250#96#2(7@59"In file included from /Volumes/Untitled/GrabLa/InvisiView.m299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#21#0#21#0#0"0(13@87"Can not use an object as parameter to a method in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#74#0#74#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#74#0#74#0#0"0(4@46"Can not use an object as parameter to a method299134361#346#96#2(7@59"In file included from /Volumes/Untitled/GrabLa/InvisiView.m299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#21#0#21#0#0"0(13@87"Can not use an object as parameter to a method in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#81#0#81#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#81#0#81#0#0"0(4@46"'view' undeclared (first use in this function)299134361#515#96#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#37#0#37#0#43"'*' undeclared (first use in this function)0(22@49"'NSUserDefaults' may not respond to '-intForKey:'299134361#793#101#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#45#0#45#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)299134361#894#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#45#0#45#0#0"0(22@80"Passing argument 1 of 'numberWithInt:' makes integer from pointer without a cast299134361#1156#132#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#45#0#45#0#67"passing argument * of '*' makes integer from pointer without a cast0(22@52"Assignment makes pointer from integer without a cast299134361#1288#104#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#47#0#47#0#0"0(4@51"'screenKey' undeclared (first use in this function)299134361#1392#101#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#49#0#49#0#43"'*' undeclared (first use in this function)0(4@48"'HotKey' undeclared (first use in this function)299134361#1493#98#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#49#0#49#0#43"'*' undeclared (first use in this function)0(4@50"'modifier' undeclared (first use in this function)299134361#1591#100#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#50#0#50#0#43"'*' undeclared (first use in this function)0(4@50"'password' undeclared (first use in this function)299134361#1691#100#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#55#0#55#0#43"'*' undeclared (first use in this function)0(22@40"Implicit declaration of function 'logIn'299134361#1791#92#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#61#0#61#0#36"implicit declaration of function '*'0(4@45"Expected expression before 'NSBitmapImageRep'299134361#1968#95#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#74#0#74#0#19"expected * before *0(4@51"'screencap' undeclared (first use in this function)299134361#2063#101#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#77#0#77#0#43"'*' undeclared (first use in this function)0(22@38"Comparison between pointer and integer299134361#2164#90#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#84#0#84#0#0"0(4@49"Incompatible type for argument 1 of 'uploadFile:'299134361#2254#99#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#87#0#87#0#0"0(22@61"'NSFileManager' may not respond to '+removeItemAtPath:error:'299134361#2353#113#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#90#0#90#0#26"'*' may not respond to '*'0(22@38"Comparison between pointer and integer299134361#2466#90#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#91#0#91#0#0"0(4@23"Duplicate label 'NSLog'299134361#2556#73#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#91#0#91#0#0"0(13@39"Previous definition of 'NSLog' was here299134361#2629#89#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#84#0#84#0#35"previous definition of '*' was here0(4@47"Incompatible type for argument 1 of 'zipFiles:'299134361#2795#98#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#107#0#107#0#0"0(4@49"Incompatible type for argument 1 of 'uploadFile:'299134361#2893#100#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#112#0#112#0#0"0(23@13"At top level:299134361#2993#53#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#0#0#0#0#0"0(4@46"Can not use an object as parameter to a method299134361#3046#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#116#0#116#0#0"0(4@43"Incompatible type for argument 1 of 'NSLog'299134361#3223#94#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#117#0#117#0#0"0(22@51"Format not a string literal and no format arguments299134361#3317#104#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#117#0#117#0#51"format not a string literal and no format arguments0(23@13"At top level:299134361#3421#53#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#0#0#0#0#0"0(4@46"Can not use an object as parameter to a method299134361#3474#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#125#0#125#0#0"0(4@29"Expected '{' before '(' token299134361#3571#80#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#132#0#132#0#19"expected * before *0(4@46"Can not use an object as parameter to a method299134361#3651#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#135#0#135#0#0"0(4@32"Incompatible types in assignment299134361#3829#83#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#136#0#136#0#0"0(23@13"At top level:299134361#3912#53#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#0#0#0#0#0"0(4@46"Can not use an object as parameter to a method299134361#3965#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#138#0#138#0#0"0(4@32"Incompatible types in assignment299134361#4143#83#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#139#0#139#0#0"0(23@13"At top level:299134361#4226#53#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#0#0#0#0#0"0(4@46"Can not use an object as parameter to a method299134361#4279#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#141#0#141#0#0"0(4@50"'password' undeclared (first use in this function)299134361#4457#101#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#142#0#142#0#43"'*' undeclared (first use in this function)0(4@52"'MainWindow' undeclared (first use in this function)299134361#4642#103#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#167#0#167#0#43"'*' undeclared (first use in this function)0(4@46"'main' undeclared (first use in this function)299134361#4745#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#167#0#167#0#43"'*' undeclared (first use in this function)0(22@51"Format not a string literal and no format arguments299134361#4924#104#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#179#0#179#0#51"format not a string literal and no format arguments0(23@13"At top level:299134361#5028#53#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#0#0#0#0#0"0(22@47"Incomplete implementation of class 'InvisiView'299134361#5081#100#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#182#0#182#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-showLogin' not found299134361#5181#97#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#182#0#182#0#35"method definition for '*' not found0(22@49"Method definition for '-hotKeyCallback' not found299134361#5278#102#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.m299134076#182#0#182#0#35"method definition for '*' not found0(0#0#37"/Volumes/Untitled/GrabLa/InvisiView.m2514464800#1280"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch -c /Volumes/Untitled/GrabLa/InvisiView.m -o /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/InvisiView.o1#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/LogInViewController.o /Volumes/USB/GrabLa/LogInViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297730380.719977
+e297730381.989663
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/LogInViewController.o
+x/Volumes/USB/GrabLa/LogInViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Volumes/USB/GrabLa/LogInViewController.m:14: warning: cannot find interface declaration for 'LogInViewController'
+lSLF07#2@49"Compile /Volumes/USB/GrabLa/LogInViewController.m297730380#297730384#0(115"/Volumes/USB/GrabLa/LogInViewController.m:14: warning: cannot find interface declaration for 'LogInViewController'1(22@59"Cannot find interface declaration for 'LogInViewController'297730381#0#115#0(6@41"/Volumes/USB/GrabLa/LogInViewController.m297730378#14#0#14#0#0"0(0#0#41"/Volumes/USB/GrabLa/LogInViewController.m2514464800#1243"    cd /Volumes/USB/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/USB/GrabLa/build/Debug -I/Volumes/USB/GrabLa/build/Debug/include -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch -c /Volumes/USB/GrabLa/LogInViewController.m -o /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/LogInViewController.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/MainWindow.o /Volumes/Untitled/GrabLa/MainWindow.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134362.479334
+e299134362.998427
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/MainWindow.o
+x/Volumes/Untitled/GrabLa/MainWindow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Volumes/Untitled/GrabLa/MainWindow.m299134362#299134363#0(0"0(0#0#37"/Volumes/Untitled/GrabLa/MainWindow.m2514464800#1280"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch -c /Volumes/Untitled/GrabLa/MainWindow.m -o /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/MainWindow.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ScreenGrab.o /Volumes/Untitled/GrabLa/ScreenGrab.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134365.537854
+e299134367.198437
+r0
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ScreenGrab.o
+x/Volumes/Untitled/GrabLa/ScreenGrab.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Volumes/Untitled/GrabLa/ScreenGrab.m:9:
+o/Volumes/Untitled/GrabLa/ScreenGrab.h:26: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/ScreenGrab.m:15: warning: cannot find interface declaration for 'ScreeenGrab'
+o/Volumes/Untitled/GrabLa/ScreenGrab.m:15: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/ScreenGrab.m: In function '-[ScreeenGrab getScreenshot]':
+o/Volumes/Untitled/GrabLa/ScreenGrab.m:19: error: incompatible types in return
+o/Volumes/Untitled/GrabLa/ScreenGrab.m:20: warning: control reaches end of non-void function
+lSLF07#2@45"Compile /Volumes/Untitled/GrabLa/ScreenGrab.m299134365#299134367#0(611"In file included from /Volumes/Untitled/GrabLa/ScreenGrab.m:9:/Volumes/Untitled/GrabLa/ScreenGrab.h:26: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/ScreenGrab.m:15: warning: cannot find interface declaration for 'ScreeenGrab'/Volumes/Untitled/GrabLa/ScreenGrab.m:15: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/ScreenGrab.m: In function '-[ScreeenGrab getScreenshot]':/Volumes/Untitled/GrabLa/ScreenGrab.m:19: error: incompatible types in return/Volumes/Untitled/GrabLa/ScreenGrab.m:20: warning: control reaches end of non-void function5(4@46"Can not use an object as parameter to a method299134366#63#96#2(7@59"In file included from /Volumes/Untitled/GrabLa/ScreenGrab.m299134366#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ScreenGrab.m299127032#9#0#9#0#0"0(13@87"Can not use an object as parameter to a method in /Volumes/Untitled/GrabLa/ScreenGrab.h299134366#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ScreenGrab.h299133890#26#0#26#0#0"0(6@37"/Volumes/Untitled/GrabLa/ScreenGrab.h299133890#26#0#26#0#0"0(22@51"Cannot find interface declaration for 'ScreeenGrab'299134366#159#103#0(6@37"/Volumes/Untitled/GrabLa/ScreenGrab.m299127032#15#0#15#0#0"0(4@46"Can not use an object as parameter to a method299134366#262#96#0(6@37"/Volumes/Untitled/GrabLa/ScreenGrab.m299127032#15#0#15#0#0"0(4@28"Incompatible types in return299134366#441#78#0(6@37"/Volumes/Untitled/GrabLa/ScreenGrab.m299127032#19#0#19#0#0"0(22@40"Control reaches end of non-void function299134366#519#92#0(6@37"/Volumes/Untitled/GrabLa/ScreenGrab.m299127032#20#0#20#0#40"control reaches end of non-void function0(0#0#37"/Volumes/Untitled/GrabLa/ScreenGrab.m2514464800#1280"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch -c /Volumes/Untitled/GrabLa/ScreenGrab.m -o /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ScreenGrab.o1#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ZipArchive.o /Volumes/Untitled/GrabLa/ZipArchive.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134367.199059
+e299134367.741234
+r0
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ZipArchive.o
+x/Volumes/Untitled/GrabLa/ZipArchive.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Volumes/Untitled/GrabLa/ZipArchive.m:16:
+o/Volumes/Untitled/GrabLa/ZipArchive.h:17:24: error: UIKit/UIKit.h: No such file or directory
+o/Volumes/Untitled/GrabLa/ZipArchive.h:19:25: error: minizip/zip.h: No such file or directory
+o/Volumes/Untitled/GrabLa/ZipArchive.h:20:27: error: minizip/unzip.h: No such file or directory
+oIn file included from /Volumes/Untitled/GrabLa/ZipArchive.m:16:
+o/Volumes/Untitled/GrabLa/ZipArchive.h:33: error: expected specifier-qualifier-list before 'zipFile'
+o/Volumes/Untitled/GrabLa/ZipArchive.h:34: error: expected specifier-qualifier-list before 'unzFile'
+o/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive init]':
+o/Volumes/Untitled/GrabLa/ZipArchive.m:38: error: '_zipFile' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:38: error: (Each undeclared identifier is reported only once
+o/Volumes/Untitled/GrabLa/ZipArchive.m:38: error: for each function it appears in.)
+o/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive CreateZipFile2:]':
+o/Volumes/Untitled/GrabLa/ZipArchive.m:51: error: '_zipFile' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:51: warning: implicit declaration of function 'zipOpen'
+o/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive addFileToZip:newname:]':
+o/Volumes/Untitled/GrabLa/ZipArchive.m:65: error: '_zipFile' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:71: error: 'zip_fileinfo' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:71: error: expected ';' before 'zipInfo'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:74: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:86: error: 'zipInfo' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:99: warning: implicit declaration of function 'zipOpenNewFileInZip'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:113: warning: implicit declaration of function 'zipOpenNewFileInZip3'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:137: warning: implicit declaration of function 'zipWriteInFileInZip'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:142: warning: implicit declaration of function 'zipCloseFileInZip'
+o/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive CloseZipFile2]':
+o/Volumes/Untitled/GrabLa/ZipArchive.m:151: error: '_zipFile' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:153: warning: implicit declaration of function 'zipClose'
+o/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive UnzipOpenFile:]':
+o/Volumes/Untitled/GrabLa/ZipArchive.m:160: error: '_unzFile' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:160: warning: implicit declaration of function 'unzOpen'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:163: error: 'unz_global_info' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:163: error: expected ';' before 'globalInfo'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:164: warning: implicit declaration of function 'unzGetGlobalInfo'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:164: error: 'globalInfo' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:164: error: 'UNZ_OK' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:166: warning: format not a string literal and no format arguments
+o/Volumes/Untitled/GrabLa/ZipArchive.m:170: warning: control reaches end of non-void function
+o/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive UnzipFileTo:overWrite:]':
+o/Volumes/Untitled/GrabLa/ZipArchive.m:181: warning: implicit declaration of function 'unzGoToFirstFile'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:181: error: '_unzFile' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:184: error: 'UNZ_OK' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:191: warning: implicit declaration of function 'unzOpenCurrentFile'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:193: warning: implicit declaration of function 'unzOpenCurrentFilePassword'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:202: error: 'unz_file_info' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:202: error: expected ';' before 'fileInfo'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:203: warning: implicit declaration of function 'unzGetCurrentFileInfo'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:203: error: 'fileInfo' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:208: warning: implicit declaration of function 'unzCloseCurrentFile'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:216: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:236: warning: implicit declaration of function 'unzGoToNextFile'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:243: warning: implicit declaration of function 'unzReadCurrentFile'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:298: error: 'UNZ_END_OF_LIST_OF_FILE' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive UnzipCloseFile]':
+o/Volumes/Untitled/GrabLa/ZipArchive.m:305: error: '_unzFile' undeclared (first use in this function)
+o/Volumes/Untitled/GrabLa/ZipArchive.m:306: warning: implicit declaration of function 'unzClose'
+o/Volumes/Untitled/GrabLa/ZipArchive.m:306: error: 'UNZ_OK' undeclared (first use in this function)
+lSLF07#2@45"Compile /Volumes/Untitled/GrabLa/ZipArchive.m299134367#299134367#0(5639"In file included from /Volumes/Untitled/GrabLa/ZipArchive.m:16:/Volumes/Untitled/GrabLa/ZipArchive.h:17:24: error: UIKit/UIKit.h: No such file or directory/Volumes/Untitled/GrabLa/ZipArchive.h:19:25: error: minizip/zip.h: No such file or directory/Volumes/Untitled/GrabLa/ZipArchive.h:20:27: error: minizip/unzip.h: No such file or directoryIn file included from /Volumes/Untitled/GrabLa/ZipArchive.m:16:/Volumes/Untitled/GrabLa/ZipArchive.h:33: error: expected specifier-qualifier-list before 'zipFile'/Volumes/Untitled/GrabLa/ZipArchive.h:34: error: expected specifier-qualifier-list before 'unzFile'/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive init]':/Volumes/Untitled/GrabLa/ZipArchive.m:38: error: '_zipFile' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:38: error: (Each undeclared identifier is reported only once/Volumes/Untitled/GrabLa/ZipArchive.m:38: error: for each function it appears in.)/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive CreateZipFile2:]':/Volumes/Untitled/GrabLa/ZipArchive.m:51: error: '_zipFile' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:51: warning: implicit declaration of function 'zipOpen'/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive addFileToZip:newname:]':/Volumes/Untitled/GrabLa/ZipArchive.m:65: error: '_zipFile' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:71: error: 'zip_fileinfo' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:71: error: expected ';' before 'zipInfo'/Volumes/Untitled/GrabLa/ZipArchive.m:74: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)/Volumes/Untitled/GrabLa/ZipArchive.m:86: error: 'zipInfo' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:99: warning: implicit declaration of function 'zipOpenNewFileInZip'/Volumes/Untitled/GrabLa/ZipArchive.m:113: warning: implicit declaration of function 'zipOpenNewFileInZip3'/Volumes/Untitled/GrabLa/ZipArchive.m:137: warning: implicit declaration of function 'zipWriteInFileInZip'/Volumes/Untitled/GrabLa/ZipArchive.m:142: warning: implicit declaration of function 'zipCloseFileInZip'/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive CloseZipFile2]':/Volumes/Untitled/GrabLa/ZipArchive.m:151: error: '_zipFile' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:153: warning: implicit declaration of function 'zipClose'/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive UnzipOpenFile:]':/Volumes/Untitled/GrabLa/ZipArchive.m:160: error: '_unzFile' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:160: warning: implicit declaration of function 'unzOpen'/Volumes/Untitled/GrabLa/ZipArchive.m:163: error: 'unz_global_info' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:163: error: expected ';' before 'globalInfo'/Volumes/Untitled/GrabLa/ZipArchive.m:164: warning: implicit declaration of function 'unzGetGlobalInfo'/Volumes/Untitled/GrabLa/ZipArchive.m:164: error: 'globalInfo' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:164: error: 'UNZ_OK' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:166: warning: format not a string literal and no format arguments/Volumes/Untitled/GrabLa/ZipArchive.m:170: warning: control reaches end of non-void function/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive UnzipFileTo:overWrite:]':/Volumes/Untitled/GrabLa/ZipArchive.m:181: warning: implicit declaration of function 'unzGoToFirstFile'/Volumes/Untitled/GrabLa/ZipArchive.m:181: error: '_unzFile' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:184: error: 'UNZ_OK' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:191: warning: implicit declaration of function 'unzOpenCurrentFile'/Volumes/Untitled/GrabLa/ZipArchive.m:193: warning: implicit declaration of function 'unzOpenCurrentFilePassword'/Volumes/Untitled/GrabLa/ZipArchive.m:202: error: 'unz_file_info' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:202: error: expected ';' before 'fileInfo'/Volumes/Untitled/GrabLa/ZipArchive.m:203: warning: implicit declaration of function 'unzGetCurrentFileInfo'/Volumes/Untitled/GrabLa/ZipArchive.m:203: error: 'fileInfo' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:208: warning: implicit declaration of function 'unzCloseCurrentFile'/Volumes/Untitled/GrabLa/ZipArchive.m:216: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)/Volumes/Untitled/GrabLa/ZipArchive.m:236: warning: implicit declaration of function 'unzGoToNextFile'/Volumes/Untitled/GrabLa/ZipArchive.m:243: warning: implicit declaration of function 'unzReadCurrentFile'/Volumes/Untitled/GrabLa/ZipArchive.m:298: error: 'UNZ_END_OF_LIST_OF_FILE' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m: In function '-[ZipArchive UnzipCloseFile]':/Volumes/Untitled/GrabLa/ZipArchive.m:305: error: '_unzFile' undeclared (first use in this function)/Volumes/Untitled/GrabLa/ZipArchive.m:306: warning: implicit declaration of function 'unzClose'/Volumes/Untitled/GrabLa/ZipArchive.m:306: error: 'UNZ_OK' undeclared (first use in this function)45(4@40"UIKit/UIKit.h: No such file or directory299134367#64#93#2(7@59"In file included from /Volumes/Untitled/GrabLa/ZipArchive.m299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#16#0#16#0#0"0(13@81"UIKit/UIKit.h: No such file or directory in /Volumes/Untitled/GrabLa/ZipArchive.h299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#17#0#17#0#0"0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#17#0#17#0#28"*: No such file or directory0(4@40"Minizip/zip.h: No such file or directory299134367#157#93#2(7@59"In file included from /Volumes/Untitled/GrabLa/ZipArchive.m299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#16#0#16#0#0"0(13@81"Minizip/zip.h: No such file or directory in /Volumes/Untitled/GrabLa/ZipArchive.h299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#19#0#19#0#0"0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#19#0#19#0#28"*: No such file or directory0(4@42"Minizip/unzip.h: No such file or directory299134367#250#95#2(7@59"In file included from /Volumes/Untitled/GrabLa/ZipArchive.m299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#16#0#16#0#0"0(13@83"Minizip/unzip.h: No such file or directory in /Volumes/Untitled/GrabLa/ZipArchive.h299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#20#0#20#0#0"0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#20#0#20#0#28"*: No such file or directory0(4@50"Expected specifier-qualifier-list before 'zipFile'299134367#409#100#2(7@59"In file included from /Volumes/Untitled/GrabLa/ZipArchive.m299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#16#0#16#0#0"0(13@91"Expected specifier-qualifier-list before 'zipFile' in /Volumes/Untitled/GrabLa/ZipArchive.h299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#33#0#33#0#0"0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#33#0#33#0#19"expected * before *0(4@50"Expected specifier-qualifier-list before 'unzFile'299134367#509#100#2(7@59"In file included from /Volumes/Untitled/GrabLa/ZipArchive.m299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#16#0#16#0#0"0(13@91"Expected specifier-qualifier-list before 'unzFile' in /Volumes/Untitled/GrabLa/ZipArchive.h299134367#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#34#0#34#0#0"0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.h299127050#34#0#34#0#19"expected * before *0(4@50"'_zipFile' undeclared (first use in this function)299134367#682#100#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#38#0#38#0#43"'*' undeclared (first use in this function)0(4@50"'_zipFile' undeclared (first use in this function)299134367#1048#100#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#51#0#51#0#43"'*' undeclared (first use in this function)0(22@42"Implicit declaration of function 'zipOpen'299134367#1148#94#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#51#0#51#0#36"implicit declaration of function '*'0(4@50"'_zipFile' undeclared (first use in this function)299134367#1332#100#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#65#0#65#0#43"'*' undeclared (first use in this function)0(4@54"'zip_fileinfo' undeclared (first use in this function)299134367#1432#104#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#71#0#71#0#43"'*' undeclared (first use in this function)0(4@29"Expected ';' before 'zipInfo'299134367#1536#79#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#71#0#71#0#19"expected * before *0(22@170"'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)299134367#1615#222#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#74#0#74#0#33"'*' is deprecated (declared at *)0(4@49"'zipInfo' undeclared (first use in this function)299134367#1837#99#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#86#0#86#0#43"'*' undeclared (first use in this function)0(22@54"Implicit declaration of function 'zipOpenNewFileInZip'299134367#1936#106#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#99#0#99#0#36"implicit declaration of function '*'0(22@55"Implicit declaration of function 'zipOpenNewFileInZip3'299134367#2042#108#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#113#0#113#0#36"implicit declaration of function '*'0(22@54"Implicit declaration of function 'zipWriteInFileInZip'299134367#2150#107#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#137#0#137#0#36"implicit declaration of function '*'0(22@52"Implicit declaration of function 'zipCloseFileInZip'299134367#2257#105#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#142#0#142#0#36"implicit declaration of function '*'0(4@50"'_zipFile' undeclared (first use in this function)299134367#2444#101#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#151#0#151#0#43"'*' undeclared (first use in this function)0(22@43"Implicit declaration of function 'zipClose'299134367#2545#96#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#153#0#153#0#36"implicit declaration of function '*'0(4@50"'_unzFile' undeclared (first use in this function)299134367#2724#101#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#160#0#160#0#43"'*' undeclared (first use in this function)0(22@42"Implicit declaration of function 'unzOpen'299134367#2825#95#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#160#0#160#0#36"implicit declaration of function '*'0(4@57"'unz_global_info' undeclared (first use in this function)299134367#2920#108#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#163#0#163#0#43"'*' undeclared (first use in this function)0(4@32"Expected ';' before 'globalInfo'299134367#3028#83#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#163#0#163#0#19"expected * before *0(22@51"Implicit declaration of function 'unzGetGlobalInfo'299134367#3111#104#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#164#0#164#0#36"implicit declaration of function '*'0(4@52"'globalInfo' undeclared (first use in this function)299134367#3215#103#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#164#0#164#0#43"'*' undeclared (first use in this function)0(4@48"'UNZ_OK' undeclared (first use in this function)299134367#3318#99#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#164#0#164#0#43"'*' undeclared (first use in this function)0(22@51"Format not a string literal and no format arguments299134367#3417#104#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#166#0#166#0#51"format not a string literal and no format arguments0(22@40"Control reaches end of non-void function299134367#3521#93#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#170#0#170#0#40"control reaches end of non-void function0(22@51"Implicit declaration of function 'unzGoToFirstFile'299134367#3705#104#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#181#0#181#0#36"implicit declaration of function '*'0(4@50"'_unzFile' undeclared (first use in this function)299134367#3809#101#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#181#0#181#0#43"'*' undeclared (first use in this function)0(4@48"'UNZ_OK' undeclared (first use in this function)299134367#3910#99#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#184#0#184#0#43"'*' undeclared (first use in this function)0(22@53"Implicit declaration of function 'unzOpenCurrentFile'299134367#4009#106#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#191#0#191#0#36"implicit declaration of function '*'0(22@61"Implicit declaration of function 'unzOpenCurrentFilePassword'299134367#4115#114#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#193#0#193#0#36"implicit declaration of function '*'0(4@55"'unz_file_info' undeclared (first use in this function)299134367#4229#106#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#202#0#202#0#43"'*' undeclared (first use in this function)0(4@30"Expected ';' before 'fileInfo'299134367#4335#81#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#202#0#202#0#19"expected * before *0(22@56"Implicit declaration of function 'unzGetCurrentFileInfo'299134367#4416#109#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#203#0#203#0#36"implicit declaration of function '*'0(4@50"'fileInfo' undeclared (first use in this function)299134367#4525#101#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#203#0#203#0#43"'*' undeclared (first use in this function)0(22@54"Implicit declaration of function 'unzCloseCurrentFile'299134367#4626#107#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#208#0#208#0#36"implicit declaration of function '*'0(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)299134367#4733#202#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#216#0#216#0#33"'*' is deprecated (declared at *)0(22@50"Implicit declaration of function 'unzGoToNextFile'299134367#4935#103#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#236#0#236#0#36"implicit declaration of function '*'0(22@53"Implicit declaration of function 'unzReadCurrentFile'299134367#5038#106#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#243#0#243#0#36"implicit declaration of function '*'0(4@65"'UNZ_END_OF_LIST_OF_FILE' undeclared (first use in this function)299134367#5144#116#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#298#0#298#0#43"'*' undeclared (first use in this function)0(4@50"'_unzFile' undeclared (first use in this function)299134367#5343#101#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#305#0#305#0#43"'*' undeclared (first use in this function)0(22@43"Implicit declaration of function 'unzClose'299134367#5444#96#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#306#0#306#0#36"implicit declaration of function '*'0(4@48"'UNZ_OK' undeclared (first use in this function)299134367#5540#99#0(6@37"/Volumes/Untitled/GrabLa/ZipArchive.m299127042#306#0#306#0#43"'*' undeclared (first use in this function)0(0#0#37"/Volumes/Untitled/GrabLa/ZipArchive.m2514464800#1280"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch -c /Volumes/Untitled/GrabLa/ZipArchive.m -o /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/ZipArchive.o1#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o "/Users/Moddy/Desktop/USB BackUP/GrabLa/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o /Volumes/TRUECRYPT/GrabLa/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298712602.778812
+e298712605.104011
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+x/Volumes/TRUECRYPT/GrabLa/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Volumes/TRUECRYPT/GrabLa/main.m298712602#298712607#0(0"0(0#0#32"/Volumes/TRUECRYPT/GrabLa/main.m2514464800#1279"    cd /Volumes/TRUECRYPT/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TRUECRYPT/GrabLa/build/Debug -I/Volumes/TRUECRYPT/GrabLa/build/Debug/include -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch -c /Volumes/TRUECRYPT/GrabLa/main.m -o /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o /Volumes/TrueCrypt/GrabLa/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s298730220.499427
+e298730223.510758
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+x/Volumes/TrueCrypt/GrabLa/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Compile /Volumes/TrueCrypt/GrabLa/main.m298730220#298730223#0(0"0(0#0#32"/Volumes/TrueCrypt/GrabLa/main.m2514464800#1279"    cd /Volumes/TrueCrypt/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TrueCrypt/GrabLa/build/Debug -I/Volumes/TrueCrypt/GrabLa/build/Debug/include -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch -c /Volumes/TrueCrypt/GrabLa/main.m -o /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o /Volumes/USB/GrabLa/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s297806429.151641
+e297806430.562338
+r1
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+x/Volumes/USB/GrabLa/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Compile /Volumes/USB/GrabLa/main.m297806429#297806433#0(0"0(0#0#26"/Volumes/USB/GrabLa/main.m2514464800#1213"    cd /Volumes/USB/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/USB/GrabLa/build/Debug -I/Volumes/USB/GrabLa/build/Debug/include -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch -c /Volumes/USB/GrabLa/main.m -o /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o0#
+
+CCompileC build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o /Volumes/Untitled/GrabLa/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134360.928991
+e299134361.381363
+r0
+xCompileC
+xbuild/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o
+x/Volumes/Untitled/GrabLa/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Volumes/Untitled/GrabLa/main.m:15:
+o/Volumes/Untitled/GrabLa/InvisiView.h:22: error: cannot find protocol declaration for 'ZipArchiveDelegate'
+o/Volumes/Untitled/GrabLa/InvisiView.h:48: error: expected ';' before '(' token
+o/Volumes/Untitled/GrabLa/InvisiView.h:74: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/InvisiView.h:81: error: can not use an object as parameter to a method
+o/Volumes/Untitled/GrabLa/main.m: In function 'main':
+o/Volumes/Untitled/GrabLa/main.m:26: warning: unused variable 'view'
+lSLF07#2@39"Compile /Volumes/Untitled/GrabLa/main.m299134360#299134361#0(557"In file included from /Volumes/Untitled/GrabLa/main.m:15:/Volumes/Untitled/GrabLa/InvisiView.h:22: error: cannot find protocol declaration for 'ZipArchiveDelegate'/Volumes/Untitled/GrabLa/InvisiView.h:48: error: expected ';' before '(' token/Volumes/Untitled/GrabLa/InvisiView.h:74: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/InvisiView.h:81: error: can not use an object as parameter to a method/Volumes/Untitled/GrabLa/main.m: In function 'main':/Volumes/Untitled/GrabLa/main.m:26: warning: unused variable 'view'5(4@57"Cannot find protocol declaration for 'ZipArchiveDelegate'299134361#58#107#2(7@53"In file included from /Volumes/Untitled/GrabLa/main.m299134361#4294967295#0#0(6@31"/Volumes/Untitled/GrabLa/main.m298921390#15#0#15#0#0"0(13@98"Cannot find protocol declaration for 'ZipArchiveDelegate' in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#22#0#22#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#22#0#22#0#0"0(4@29"Expected ';' before '(' token299134361#165#79#2(7@53"In file included from /Volumes/Untitled/GrabLa/main.m299134361#4294967295#0#0(6@31"/Volumes/Untitled/GrabLa/main.m298921390#15#0#15#0#0"0(13@70"Expected ';' before '(' token in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#48#0#48#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#48#0#48#0#19"expected * before *0(4@46"Can not use an object as parameter to a method299134361#244#96#2(7@53"In file included from /Volumes/Untitled/GrabLa/main.m299134361#4294967295#0#0(6@31"/Volumes/Untitled/GrabLa/main.m298921390#15#0#15#0#0"0(13@87"Can not use an object as parameter to a method in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#74#0#74#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#74#0#74#0#0"0(4@46"Can not use an object as parameter to a method299134361#340#96#2(7@53"In file included from /Volumes/Untitled/GrabLa/main.m299134361#4294967295#0#0(6@31"/Volumes/Untitled/GrabLa/main.m298921390#15#0#15#0#0"0(13@87"Can not use an object as parameter to a method in /Volumes/Untitled/GrabLa/InvisiView.h299134361#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#81#0#81#0#0"0(6@37"/Volumes/Untitled/GrabLa/InvisiView.h299134076#81#0#81#0#0"0(22@22"Unused variable 'view'299134361#489#68#0(6@31"/Volumes/Untitled/GrabLa/main.m298921390#26#0#26#0#19"unused variable '*'0(0#0#31"/Volumes/Untitled/GrabLa/main.m2514464800#1268"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -include /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch -c /Volumes/Untitled/GrabLa/main.m -o /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/main.o1#
+
+CCompileXIB "/Users/Moddy/Desktop/USB BackUP/GrabLa/GUIHistory.xib"
+r0
+
+CCompileXIB "/Users/Moddy/Desktop/USB BackUP/GrabLa/GUILogin.xib"
+r0
+
+CCompileXIB "/Users/Moddy/Desktop/USB BackUP/GrabLa/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Moddy/Desktop/USB BackUP/GrabLa/support.xib"
+r0
+
+CCompileXIB /Volumes/TRUECRYPT/GrabLa/GUIHistory.xib
+r0
+
+CCompileXIB /Volumes/TRUECRYPT/GrabLa/GUILogin.xib
+r0
+
+CCompileXIB /Volumes/TRUECRYPT/GrabLa/MainWindow.xib
+s298711656.310933
+e298711659.547698
+r1
+xCompileXIB
+x/Volumes/TRUECRYPT/GrabLa/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib298711656#298711659#0(0"0(0#0#40"/Volumes/TRUECRYPT/GrabLa/MainWindow.xib4386904#263"    cd /Volumes/TRUECRYPT/GrabLa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/MainWindow.nib /Volumes/TRUECRYPT/GrabLa/MainWindow.xib0#
+
+CCompileXIB /Volumes/TRUECRYPT/GrabLa/support.xib
+s298711656.545882
+e298711659.242676
+r1
+xCompileXIB
+x/Volumes/TRUECRYPT/GrabLa/support.xib
+lSLF07#2@22"CompileXIB support.xib298711656#298711659#0(0"0(0#0#37"/Volumes/TRUECRYPT/GrabLa/support.xib2514464800#257"    cd /Volumes/TRUECRYPT/GrabLa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/support.nib /Volumes/TRUECRYPT/GrabLa/support.xib0#
+
+CCompileXIB /Volumes/TrueCrypt/GrabLa/GUIHistory.xib
+r0
+
+CCompileXIB /Volumes/TrueCrypt/GrabLa/GUILogin.xib
+r0
+
+CCompileXIB /Volumes/TrueCrypt/GrabLa/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/TrueCrypt/GrabLa/support.xib
+r0
+
+CCompileXIB /Volumes/USB/GrabLa/GUIHistory.xib
+s297807996.885346
+e297808000.785653
+r1
+xCompileXIB
+x/Volumes/USB/GrabLa/GUIHistory.xib
+lSLF07#2@25"CompileXIB GUIHistory.xib297807996#297808000#0(0"0(0#0#34"/Volumes/USB/GrabLa/GUIHistory.xib2514464800#245"    cd /Volumes/USB/GrabLa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUIHistory.nib /Volumes/USB/GrabLa/GUIHistory.xib0#
+
+CCompileXIB /Volumes/USB/GrabLa/GUILogin.xib
+s297806311.191059
+e297806314.127415
+r1
+xCompileXIB
+x/Volumes/USB/GrabLa/GUILogin.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/USB/GrabLa/GUILogin.xib:3: warning: This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior.
+o/Volumes/USB/GrabLa/GUILogin.xib:41: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.
+lSLF07#2@23"CompileXIB GUILogin.xib297806311#297806314#0(356"/* com.apple.ibtool.document.warnings *//Volumes/USB/GrabLa/GUILogin.xib:3: warning: This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior./Volumes/USB/GrabLa/GUILogin.xib:41: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.2(22@133"This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior.297806314#4294967295#0#0(6@32"/Volumes/USB/GrabLa/GUILogin.xib297799766#3#0#3#0#0"0(22@89"The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.297806314#4294967295#0#0(6@32"/Volumes/USB/GrabLa/GUILogin.xib297799766#41#0#41#0#0"0(0#0#32"/Volumes/USB/GrabLa/GUILogin.xib4386904#241"    cd /Volumes/USB/GrabLa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUILogin.nib /Volumes/USB/GrabLa/GUILogin.xib0#
+
+CCompileXIB /Volumes/USB/GrabLa/LogInViewController.xib
+s297730318.986967
+e297730323.740926
+r1
+xCompileXIB
+x/Volumes/USB/GrabLa/LogInViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/USB/GrabLa/LogInViewController.xib:5: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.
+lSLF07#2@34"CompileXIB LogInViewController.xib297730318#297730323#0(187"/* com.apple.ibtool.document.warnings *//Volumes/USB/GrabLa/LogInViewController.xib:5: warning: The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.1(22@89"The property "Uses Single Line Mode" is not supported on Mac OS X versions prior to 10.6.297730323#4294967295#0#0(6@43"/Volumes/USB/GrabLa/LogInViewController.xib297709972#5#0#5#0#0"0(0#0#43"/Volumes/USB/GrabLa/LogInViewController.xib4386904#263"    cd /Volumes/USB/GrabLa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/LogInViewController.nib /Volumes/USB/GrabLa/LogInViewController.xib0#
+
+CCompileXIB /Volumes/USB/GrabLa/untitled.xib
+r0
+
+CCompileXIB /Volumes/Untitled/GrabLa/GUILogin.xib
+s299134343.404911
+e299134346.294659
+r1
+xCompileXIB
+x/Volumes/Untitled/GrabLa/GUILogin.xib
+o/* com.apple.ibtool.document.warnings */
+o/Volumes/Untitled/GrabLa/GUILogin.xib:3: warning: This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior.
+lSLF07#2@23"CompileXIB GUILogin.xib299134343#299134346#0(225"/* com.apple.ibtool.document.warnings *//Volumes/Untitled/GrabLa/GUILogin.xib:3: warning: This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior.1(22@133"This window's maximum size is smaller than its content rectangle's size, a situation which may result in unexpected runtime behavior.299134346#4294967295#0#0(6@37"/Volumes/Untitled/GrabLa/GUILogin.xib298882478#3#0#3#0#0"0(0#0#37"/Volumes/Untitled/GrabLa/GUILogin.xib2514464800#256"    cd /Volumes/Untitled/GrabLa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/GUILogin.nib /Volumes/Untitled/GrabLa/GUILogin.xib0#
+
+CCompileXIB /Volumes/Untitled/GrabLa/MainWindow.xib
+s299134344.414529
+e299134347.012591
+r1
+xCompileXIB
+x/Volumes/Untitled/GrabLa/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299134344#299134347#0(0"0(0#0#39"/Volumes/Untitled/GrabLa/MainWindow.xib2514464800#260"    cd /Volumes/Untitled/GrabLa    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/MainWindow.nib /Volumes/Untitled/GrabLa/MainWindow.xib0#
+
+CCopyStringsFile "/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s299134343.401525
+e299134344.413805
+r1
+xCopyStringsFile
+x/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings299134343#299134344#0(0"0(0#0#56"/Volumes/Untitled/GrabLa/English.lproj/InfoPlist.strings2514464800#337"    cd /Volumes/Untitled/GrabLa    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/account.png /Users/Moddy/Downloads/icons-1/PNG/account.png
+s299134346.309827
+e299134346.472331
+r1
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/account.png
+x/Users/Moddy/Downloads/icons-1/PNG/account.png
+lSLF07#2@51"Copy /Users/Moddy/Downloads/icons-1/PNG/account.png299134346#299134346#0(0"0(0#0#46"/Users/Moddy/Downloads/icons-1/PNG/account.png2514464800#294"    cd /Volumes/Untitled/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Moddy/Downloads/icons-1/PNG/account.png /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources0#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/files.png /Users/Moddy/Downloads/icons-1/PNG/files.png
+s299134346.333462
+e299134346.474512
+r1
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/files.png
+x/Users/Moddy/Downloads/icons-1/PNG/files.png
+lSLF07#2@49"Copy /Users/Moddy/Downloads/icons-1/PNG/files.png299134346#299134346#0(0"0(0#0#44"/Users/Moddy/Downloads/icons-1/PNG/files.png2514464800#292"    cd /Volumes/Untitled/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Moddy/Downloads/icons-1/PNG/files.png /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources0#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/general.png general.png
+s299134346.326561
+e299134346.407754
+r1
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/general.png
+xgeneral.png
+lSLF07#2@16"Copy general.png299134346#299134346#0(0"0(0#0#36"/Volumes/Untitled/GrabLa/general.png2514464800#284"    cd /Volumes/Untitled/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Volumes/Untitled/GrabLa/general.png /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources0#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/icon.png /Users/Moddy/Desktop/icon.png
+s298730220.471467
+e298730220.497800
+r0
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/icon.png
+x/Users/Moddy/Desktop/icon.png
+opbxcp: icon.png: No such file or directory
+lSLF07#2@34"Copy /Users/Moddy/Desktop/icon.png298730220#298730220#0(43"pbxcp: icon.png: No such file or directory1(4@42"pbxcp: icon.png: No such file or directory298730220#4294967295#0#0(6@0"298730220#0#0#0#0#0"0(0#0#29"/Users/Moddy/Desktop/icon.png2514464800#279"    cd /Volumes/TrueCrypt/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Moddy/Desktop/icon.png /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Resources1#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/onebit_02.png onebit_02.png
+s297706919.154174
+e297706920.558812
+r1
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/onebit_02.png
+xonebit_02.png
+lSLF07#2@18"Copy onebit_02.png297706919#297706920#0(0"0(0#0#33"/Volumes/USB/GrabLa/onebit_02.png2514464800#271"    cd /Volumes/USB/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Volumes/USB/GrabLa/onebit_02.png /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources0#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/onebit_13.png /Users/Moddy/Downloads/icons-1/PNG/onebit_13.png
+r0
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/onebit_16.png /Users/Moddy/Downloads/icons-1/PNG/onebit_16.png
+r0
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/onebit_18.png /Users/Moddy/Downloads/icons-1/PNG/onebit_18.png
+r0
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/onebit_23.png onebit_23.png
+s297706919.149580
+e297706919.952782
+r1
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/onebit_23.png
+xonebit_23.png
+lSLF07#2@18"Copy onebit_23.png297706919#297706919#0(0"0(0#0#33"/Volumes/USB/GrabLa/onebit_23.png2514464800#271"    cd /Volumes/USB/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Volumes/USB/GrabLa/onebit_23.png /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Resources0#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/onebit_34.png onebit_34.png
+r0
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/onebit_44.png onebit_44.png
+r0
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/support.png /Users/Moddy/Downloads/icons-1/PNG/support.png
+s299134346.295206
+e299134346.473574
+r1
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/support.png
+x/Users/Moddy/Downloads/icons-1/PNG/support.png
+lSLF07#2@51"Copy /Users/Moddy/Downloads/icons-1/PNG/support.png299134346#299134346#0(0"0(0#0#46"/Users/Moddy/Downloads/icons-1/PNG/support.png2514464800#294"    cd /Volumes/Untitled/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Moddy/Downloads/icons-1/PNG/support.png /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources0#
+
+CCpResource build/Debug/GrabLa.app/Contents/Resources/updates.png updates.png
+s299134346.316003
+e299134346.406224
+r1
+xCpResource
+xbuild/Debug/GrabLa.app/Contents/Resources/updates.png
+xupdates.png
+lSLF07#2@16"Copy updates.png299134346#299134346#0(0"0(0#0#36"/Volumes/Untitled/GrabLa/updates.png2514464800#284"    cd /Volumes/Untitled/GrabLa    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Volumes/Untitled/GrabLa/updates.png /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Resources0#
+
+CLd "/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa" normal i386
+r0
+
+CLd /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa normal i386
+s298712605.104466
+e298712605.924271
+r1
+xLd
+x/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+xnormal
+xi386
+lSLF07#2@75"Link /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa298712605#298712607#0(0"0(0#0#0"2514464800#468"    cd /Volumes/TRUECRYPT/GrabLa    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/TRUECRYPT/GrabLa/build/Debug -F/Volumes/TRUECRYPT/GrabLa/build/Debug -filelist /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa0#
+
+CLd /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa normal i386
+s298730223.511418
+e298730224.819879
+r1
+xLd
+x/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+xnormal
+xi386
+lSLF07#2@75"Link /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa298730223#298730224#0(0"0(0#0#0"2514464800#468"    cd /Volumes/TrueCrypt/GrabLa    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/TrueCrypt/GrabLa/build/Debug -F/Volumes/TrueCrypt/GrabLa/build/Debug -filelist /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa0#
+
+CLd /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa normal i386
+s297816599.236077
+e297816601.798980
+r1
+xLd
+x/Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa
+xnormal
+xi386
+lSLF07#2@69"Link /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa297816599#297816601#0(0"0(0#0#0"2514464800#438"    cd /Volumes/USB/GrabLa    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/USB/GrabLa/build/Debug -F/Volumes/USB/GrabLa/build/Debug -filelist /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/Objects-normal/i386/GrabLa.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa0#
+
+CLd /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/MacOS/GrabLa normal i386
+r0
+
+CProcessInfoPlistFile "/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist" Info.plist
+r0
+
+CProcessInfoPlistFile /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Volumes/USB/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist Info.plist
+r0
+
+CProcessInfoPlistFile /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist Info.plist
+s299134342.058990
+e299134343.400931
+r1
+xProcessInfoPlistFile
+x/Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist299134342#299134343#0(0"0(0#0#35"/Volumes/Untitled/GrabLa/Info.plist4872912#258"    cd /Volumes/Untitled/GrabLa    builtin-infoPlistUtility Info.plist -genpkginfo /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch.gch GrabLa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297820246.923048
+e297820264.250087
+r1
+xProcessPCH
+x/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch.gch
+xGrabLa_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile GrabLa_Prefix.pch297820246#297820264#0(0"0(0#0#43"/Volumes/TrueCrypt/GrabLa/GrabLa_Prefix.pch4386904#1201"    cd /Volumes/TrueCrypt/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TrueCrypt/GrabLa/build/Debug -I/Volumes/TrueCrypt/GrabLa/build/Debug/include -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TrueCrypt/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -c /Volumes/TrueCrypt/GrabLa/GrabLa_Prefix.pch -o /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bhrhzuthvmpfetafasmwiykwsymk/GrabLa_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch.gch GrabLa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297699086.751286
+e297699106.466102
+r1
+xProcessPCH
+x/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch.gch
+xGrabLa_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile GrabLa_Prefix.pch297699086#297699106#0(0"0(0#0#37"/Volumes/USB/GrabLa/GrabLa_Prefix.pch2514464800#1141"    cd /Volumes/USB/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/USB/GrabLa/build/Debug -I/Volumes/USB/GrabLa/build/Debug/include -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/USB/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -c /Volumes/USB/GrabLa/GrabLa_Prefix.pch -o /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bwlfeunmovtibihcpxnyigihvpny/GrabLa_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch.gch GrabLa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s298711659.548755
+e298711677.670408
+r1
+xProcessPCH
+x/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch.gch
+xGrabLa_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile GrabLa_Prefix.pch298711659#298711677#0(0"0(0#0#43"/Volumes/TRUECRYPT/GrabLa/GrabLa_Prefix.pch2514464800#1201"    cd /Volumes/TRUECRYPT/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/TRUECRYPT/GrabLa/build/Debug -I/Volumes/TRUECRYPT/GrabLa/build/Debug/include -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/TRUECRYPT/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -c /Volumes/TRUECRYPT/GrabLa/GrabLa_Prefix.pch -o /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-bxpulndyhynkhqdcehclpbgdncne/GrabLa_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch.gch GrabLa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s299134347.013213
+e299134360.928107
+r1
+xProcessPCH
+x/var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch.gch
+xGrabLa_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile GrabLa_Prefix.pch299134347#299134360#0(0"0(0#0#42"/Volumes/Untitled/GrabLa/GrabLa_Prefix.pch2514464800#1191"    cd /Volumes/Untitled/GrabLa    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-generated-files.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-own-target-headers.hmap -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-all-target-headers.hmap -iquote /Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/GrabLa-project-headers.hmap -F/Volumes/Untitled/GrabLa/build/Debug -I/Volumes/Untitled/GrabLa/build/Debug/include -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources/i386 -I/Volumes/Untitled/GrabLa/build/GrabLa.build/Debug/GrabLa.build/DerivedSources -c /Volumes/Untitled/GrabLa/GrabLa_Prefix.pch -o /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dazquyxtmjrfbmantjklfbjuhhmu/GrabLa_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-dbcyggtyjzqmbnafqntfssawkred/GrabLa_Prefix.pch.gch GrabLa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/4i/4i4gefuWE04LJozkS-aaM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GrabLa_Prefix-fhhlydpfjektlscqocxbcljseioj/GrabLa_Prefix.pch.gch GrabLa_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Moddy/Desktop/USB BackUP/GrabLa/build/Debug/GrabLa.app"
+r0
+
+CTouch /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app
+s298712605.924755
+e298712606.186299
+r1
+xTouch
+x/Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app
+lSLF07#2@54"Touch /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app298712605#298712607#0(0"0(0#0#0"2514464800#104"    cd /Volumes/TRUECRYPT/GrabLa    /usr/bin/touch -c /Volumes/TRUECRYPT/GrabLa/build/Debug/GrabLa.app0#
+
+CTouch /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app
+s298730252.408667
+e298730252.691826
+r1
+xTouch
+x/Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app
+lSLF07#2@54"Touch /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app298730252#298730252#0(0"0(0#0#0"2514464800#104"    cd /Volumes/TrueCrypt/GrabLa    /usr/bin/touch -c /Volumes/TrueCrypt/GrabLa/build/Debug/GrabLa.app0#
+
+CTouch /Volumes/USB/GrabLa/build/Debug/GrabLa.app
+s297816601.799562
+e297816602.258494
+r1
+xTouch
+x/Volumes/USB/GrabLa/build/Debug/GrabLa.app
+lSLF07#2@48"Touch /Volumes/USB/GrabLa/build/Debug/GrabLa.app297816601#297816602#0(0"0(0#0#0"2514464800#92"    cd /Volumes/USB/GrabLa    /usr/bin/touch -c /Volumes/USB/GrabLa/build/Debug/GrabLa.app0#
+
+CTouch /Volumes/Untitled/GrabLa/build/Debug/GrabLa.app
+r0
+

@@ -1,0 +1,36 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  Node1 [label="InvisiView.m",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="InvisiView.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_invisi_view_8h.html"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="GUILogin.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_g_u_i_login_8h.html"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="Cocoa/Cocoa.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="MainWindow.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_main_window_8h.html"];
+  Node5 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="HotKey.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_hot_key_8h.html"];
+  Node6 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node7 [label="Carbon/Carbon.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node8 [label="ScreenGrab.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_screen_grab_8h.html"];
+  Node8 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node9 [label="ZipArchive.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_zip_archive_8h.html"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node10 [label="minizip/zip.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$zip_8h.html"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node11 [label="zlib.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node12 [label="ioapi.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ioapi_8h.html"];
+  Node9 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node13 [label="minizip/unzip.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8h.html"];
+  Node13 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node13 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+}

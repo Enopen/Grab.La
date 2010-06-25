@@ -1,0 +1,374 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		C1108B5311D4E30000FCC504 /* DDHotKeyCenter.m in Sources */ = {isa = PBXBuildFile; fileRef = C1108B5211D4E30000FCC504 /* DDHotKeyCenter.m */; };
+		C150E0E311C1FD800036981C /* files.png in Resources */ = {isa = PBXBuildFile; fileRef = C150E0E211C1FD800036981C /* files.png */; };
+		C15AA43611D43B540088D053 /* ScreenGrab.m in Sources */ = {isa = PBXBuildFile; fileRef = C15AA43511D43B540088D053 /* ScreenGrab.m */; };
+		C15AA43E11D43F4B0088D053 /* ZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = C15AA43D11D43F4B0088D053 /* ZipArchive.m */; };
+		C15AA46811D446E30088D053 /* libz.1.2.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C15AA46711D446E30088D053 /* libz.1.2.3.dylib */; };
+		C18C2FEC11BE9E61006BA2DF /* GUILogin.m in Sources */ = {isa = PBXBuildFile; fileRef = C18C2FEB11BE9E61006BA2DF /* GUILogin.m */; };
+		C18C2FF711BE9F28006BA2DF /* GUILogin.xib in Resources */ = {isa = PBXBuildFile; fileRef = C18C2FF611BE9F28006BA2DF /* GUILogin.xib */; };
+		C1A0CDB011BE624E000AC67C /* InvisiView.m in Sources */ = {isa = PBXBuildFile; fileRef = C1A0CDAF11BE624E000AC67C /* InvisiView.m */; };
+		C1A1703311D0772000117018 /* Carbon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1A1703211D0772000117018 /* Carbon.framework */; };
+		C1CA9AA611C01FE9005EA2ED /* MainWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = C1CA9AA511C01FE9005EA2ED /* MainWindow.m */; };
+		C1E2DC4D11D476B1007F5D82 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = C1E2DC4511D476AD007F5D82 /* ioapi.c */; };
+		C1E2DC4E11D476B1007F5D82 /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = C1E2DC4711D476AE007F5D82 /* mztools.c */; };
+		C1E2DC4F11D476B1007F5D82 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = C1E2DC4911D476AF007F5D82 /* unzip.c */; };
+		C1E2DC5011D476B1007F5D82 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = C1E2DC4B11D476B0007F5D82 /* zip.c */; };
+		C1E4482111C1F39000C79517 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = C1E4482011C1F39000C79517 /* MainWindow.xib */; };
+		C1E4482B11C1F8F300C79517 /* support.png in Resources */ = {isa = PBXBuildFile; fileRef = C1E4482A11C1F8F300C79517 /* support.png */; };
+		C1E4482D11C1F8FF00C79517 /* account.png in Resources */ = {isa = PBXBuildFile; fileRef = C1E4482C11C1F8FF00C79517 /* account.png */; };
+		C1E4482F11C1F95800C79517 /* updates.png in Resources */ = {isa = PBXBuildFile; fileRef = C1E4482E11C1F95800C79517 /* updates.png */; };
+		C1E4483111C1F98500C79517 /* general.png in Resources */ = {isa = PBXBuildFile; fileRef = C1E4483011C1F98500C79517 /* general.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		13E42FB307B3F0F600E4EEF1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		32CA4F630368D1EE00C91783 /* GrabLa_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GrabLa_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* GrabLa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GrabLa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C1108B5111D4E30000FCC504 /* DDHotKeyCenter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDHotKeyCenter.h; sourceTree = "<group>"; };
+		C1108B5211D4E30000FCC504 /* DDHotKeyCenter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDHotKeyCenter.m; sourceTree = "<group>"; };
+		C150E0E211C1FD800036981C /* files.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = files.png; path = "/Users/Moddy/Downloads/icons-1/PNG/files.png"; sourceTree = "<absolute>"; };
+		C15AA43411D43B540088D053 /* ScreenGrab.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScreenGrab.h; sourceTree = "<group>"; };
+		C15AA43511D43B540088D053 /* ScreenGrab.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScreenGrab.m; sourceTree = "<group>"; };
+		C15AA43911D43CDD0088D053 /* GrabLa.xcclassmodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcclassmodel; path = GrabLa.xcclassmodel; sourceTree = "<group>"; };
+		C15AA43C11D43F4B0088D053 /* ZipArchive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZipArchive.h; sourceTree = "<group>"; };
+		C15AA43D11D43F4B0088D053 /* ZipArchive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZipArchive.m; sourceTree = "<group>"; };
+		C15AA46711D446E30088D053 /* libz.1.2.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.3.dylib; path = usr/lib/libz.1.2.3.dylib; sourceTree = SDKROOT; };
+		C18C2FEA11BE9E61006BA2DF /* GUILogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GUILogin.h; sourceTree = "<group>"; };
+		C18C2FEB11BE9E61006BA2DF /* GUILogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GUILogin.m; sourceTree = "<group>"; };
+		C18C2FF611BE9F28006BA2DF /* GUILogin.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GUILogin.xib; sourceTree = "<group>"; };
+		C1A0CDAE11BE624E000AC67C /* InvisiView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InvisiView.h; sourceTree = "<group>"; };
+		C1A0CDAF11BE624E000AC67C /* InvisiView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvisiView.m; sourceTree = "<group>"; };
+		C1A1702E11D0771400117018 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		C1A1703211D0772000117018 /* Carbon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Carbon.framework; path = System/Library/Frameworks/Carbon.framework; sourceTree = SDKROOT; };
+		C1CA9AA411C01FE9005EA2ED /* MainWindow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainWindow.h; sourceTree = "<group>"; };
+		C1CA9AA511C01FE9005EA2ED /* MainWindow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainWindow.m; sourceTree = "<group>"; };
+		C1E2DC4411D476AC007F5D82 /* crypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
+		C1E2DC4511D476AD007F5D82 /* ioapi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
+		C1E2DC4611D476AD007F5D82 /* ioapi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
+		C1E2DC4711D476AE007F5D82 /* mztools.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = mztools.c; sourceTree = "<group>"; };
+		C1E2DC4811D476AF007F5D82 /* mztools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mztools.h; sourceTree = "<group>"; };
+		C1E2DC4911D476AF007F5D82 /* unzip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = unzip.c; sourceTree = "<group>"; };
+		C1E2DC4A11D476B0007F5D82 /* unzip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = unzip.h; sourceTree = "<group>"; };
+		C1E2DC4B11D476B0007F5D82 /* zip.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
+		C1E2DC4C11D476B1007F5D82 /* zip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
+		C1E4482011C1F39000C79517 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		C1E4482A11C1F8F300C79517 /* support.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = support.png; path = "/Users/Moddy/Downloads/icons-1/PNG/support.png"; sourceTree = "<absolute>"; };
+		C1E4482C11C1F8FF00C79517 /* account.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = account.png; path = "/Users/Moddy/Downloads/icons-1/PNG/account.png"; sourceTree = "<absolute>"; };
+		C1E4482E11C1F95800C79517 /* updates.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = updates.png; sourceTree = "<group>"; };
+		C1E4483011C1F98500C79517 /* general.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = general.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				C1A1703311D0772000117018 /* Carbon.framework in Frameworks */,
+				C15AA46811D446E30088D053 /* libz.1.2.3.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C1A0CDAE11BE624E000AC67C /* InvisiView.h */,
+				C1A0CDAF11BE624E000AC67C /* InvisiView.m */,
+				C1108B5111D4E30000FCC504 /* DDHotKeyCenter.h */,
+				C1108B5211D4E30000FCC504 /* DDHotKeyCenter.m */,
+				C18C2FEA11BE9E61006BA2DF /* GUILogin.h */,
+				C18C2FEB11BE9E61006BA2DF /* GUILogin.m */,
+				C1CA9AA411C01FE9005EA2ED /* MainWindow.h */,
+				C1CA9AA511C01FE9005EA2ED /* MainWindow.m */,
+				C15AA43411D43B540088D053 /* ScreenGrab.h */,
+				C15AA43511D43B540088D053 /* ScreenGrab.m */,
+				C15AA43C11D43F4B0088D053 /* ZipArchive.h */,
+				C15AA43D11D43F4B0088D053 /* ZipArchive.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				13E42FB307B3F0F600E4EEF1 /* CoreData.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* GrabLa.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* GrabLa */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = GrabLa;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* GrabLa_Prefix.pch */,
+				C1E2DC4311D476AB007F5D82 /* minizip */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				C15AA43911D43CDD0088D053 /* GrabLa.xcclassmodel */,
+				C1E4482C11C1F8FF00C79517 /* account.png */,
+				C1E4483011C1F98500C79517 /* general.png */,
+				C1E4482A11C1F8F300C79517 /* support.png */,
+				C150E0E211C1FD800036981C /* files.png */,
+				C1E4482E11C1F95800C79517 /* updates.png */,
+				C1E4482011C1F39000C79517 /* MainWindow.xib */,
+				C18C2FF611BE9F28006BA2DF /* GUILogin.xib */,
+				8D1107310486CEB800E47090 /* Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C1A1702E11D0771400117018 /* Cocoa.framework */,
+				C15AA46711D446E30088D053 /* libz.1.2.3.dylib */,
+				C1A1703211D0772000117018 /* Carbon.framework */,
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C1E2DC4311D476AB007F5D82 /* minizip */ = {
+			isa = PBXGroup;
+			children = (
+				C1E2DC4411D476AC007F5D82 /* crypt.h */,
+				C1E2DC4511D476AD007F5D82 /* ioapi.c */,
+				C1E2DC4611D476AD007F5D82 /* ioapi.h */,
+				C1E2DC4711D476AE007F5D82 /* mztools.c */,
+				C1E2DC4811D476AF007F5D82 /* mztools.h */,
+				C1E2DC4911D476AF007F5D82 /* unzip.c */,
+				C1E2DC4A11D476B0007F5D82 /* unzip.h */,
+				C1E2DC4B11D476B0007F5D82 /* zip.c */,
+				C1E2DC4C11D476B1007F5D82 /* zip.h */,
+			);
+			path = minizip;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* GrabLa */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "GrabLa" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GrabLa;
+			productInstallPath = "$(HOME)/Applications";
+			productName = GrabLa;
+			productReference = 8D1107320486CEB800E47090 /* GrabLa.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GrabLa" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 29B97314FDCFA39411CA2CEA /* GrabLa */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* GrabLa */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				C18C2FF711BE9F28006BA2DF /* GUILogin.xib in Resources */,
+				C1E4482111C1F39000C79517 /* MainWindow.xib in Resources */,
+				C1E4482B11C1F8F300C79517 /* support.png in Resources */,
+				C1E4482D11C1F8FF00C79517 /* account.png in Resources */,
+				C1E4482F11C1F95800C79517 /* updates.png in Resources */,
+				C1E4483111C1F98500C79517 /* general.png in Resources */,
+				C150E0E311C1FD800036981C /* files.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				C1A0CDB011BE624E000AC67C /* InvisiView.m in Sources */,
+				C18C2FEC11BE9E61006BA2DF /* GUILogin.m in Sources */,
+				C1CA9AA611C01FE9005EA2ED /* MainWindow.m in Sources */,
+				C15AA43611D43B540088D053 /* ScreenGrab.m in Sources */,
+				C15AA43E11D43F4B0088D053 /* ZipArchive.m in Sources */,
+				C1E2DC4D11D476B1007F5D82 /* ioapi.c in Sources */,
+				C1E2DC4E11D476B1007F5D82 /* mztools.c in Sources */,
+				C1E2DC4F11D476B1007F5D82 /* unzip.c in Sources */,
+				C1E2DC5011D476B1007F5D82 /* zip.c in Sources */,
+				C1108B5311D4E30000FCC504 /* DDHotKeyCenter.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GrabLa_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = GrabLa;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = GrabLa_Prefix.pch;
+				INFOPLIST_FILE = Info.plist;
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = GrabLa;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "GrabLa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "GrabLa" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

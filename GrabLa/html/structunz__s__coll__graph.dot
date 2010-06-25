@@ -1,0 +1,20 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="unz_s",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="pfile_in_zip_read",fontname="FreeSans.ttf"];
+  Node2 [label="file_in_zip_read_info_s",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structfile__in__zip__read__info__s.html"];
+  Node3 -> Node2 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="z_filefunc",fontname="FreeSans.ttf"];
+  Node3 [label="zlib_filefunc_def_s",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structzlib__filefunc__def__s.html"];
+  Node4 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="cur_file_info_internal",fontname="FreeSans.ttf"];
+  Node4 [label="unz_file_info_internal_s",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structunz__file__info__internal__s.html"];
+  Node3 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="z_filefunc",fontname="FreeSans.ttf"];
+  Node5 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="gi",fontname="FreeSans.ttf"];
+  Node5 [label="unz_global_info_s",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structunz__global__info__s.html"];
+  Node6 -> Node1 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="cur_file_info",fontname="FreeSans.ttf"];
+  Node6 [label="unz_file_info_s",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structunz__file__info__s.html"];
+  Node7 -> Node6 [dir=back,color="darkorchid3",fontsize="10",style="dashed",label="tmu_date",fontname="FreeSans.ttf"];
+  Node7 [label="tm_unz_s",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structtm__unz__s.html"];
+}

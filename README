@@ -1,0 +1,35 @@
+Grab.La - Simple Drag and Drop File Sharing
+
+This is not even Alpha code… yet!
+
+At the moment this is the basic logical codebase for the application, in addition to the XIB file's containing all the User Interface data.
+
+Do *not* try and run and expect it to work - Grab.La requires a server (Grab.La Server?) that is currently also in development. Until this PHP Web Application is finished, several core features of Grab.La have to wait. Including:
+- File Upload
+- User Accounts
+- Pretty much all of the MainWindow.
+
+This means that at the moment, the code WILL compile (XCode on Snow Leopard) however will crash when you try and open the MainWindow (right clicking the box in the StatusBar) due to the lack of a server to populate several UI things.
+
+There is a very detailed Class Model in this repository that demonstrated how the code base looked at 25th June, 1400 GMT, 2009. Since then, there have been a few changes to the design - including implementing the very good DDHotKeyCenter wrapper for the Carbon/C methods involved in making a Hot Key.
+
+A lot of code is already indexable via doxygen, and by release ALL code will be indexed in a doxygen portal available online! 
+
+*None* of this code is release standard as yet - as outlined above, but more a working prototype.
+
+From here the following things need to be done -
+
+1 - Server finalised. (Pretty much done, expect RELEASE code on a GitHub Repository near you very soon!)
+
+2 - UI finalised to reflect the above - at the moment the layout is correct, it however is hard to test when you're drawing images and resources from a server which isn't running!!
+
+3 - Network code finalised, code review, memory management implemented correctly.
+
+I may have forgot something, however - its very late here and it's been a long day!
+
+So to re-iterate it - this is not a milestone, its not even a 0.1 - it's merely the beginning of a very exciting project, and the first formal release of any actual evidence of its existence! Do not base any views on it yet, give it time for the server to be released (ETA - 4 days?) and then the actual Alpha release of Grab.La to reflect this change (ETA - Several more days?).
+
+
+Aside from Anthony and the guys over at Grabla.com - a special thanks go to these guys below, who's contributions to open source code in general, have sped up development and enabled me to be aiming for a quicker release;
+
+A great thanks to Dave DeLong for the excellent DDHotKeyCenter which was available from Github with practically no license restrictions (standard rules - credit etc, which is more common courtesy than a rule!), and aish for ZipArchive available under the MIT License on Google Code. I tried in vain to mimic Dave DeLong's good work when it came to DDHotKeyCenter - but in the end I had to concede it was taking more time than economical! ZipArchive on the other hand provides an easy to use way to interface with Zip files - a feature I look forward to finalising in the future.

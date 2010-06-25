@@ -1,0 +1,39 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="-[ZipArchive UnzipOpenFile:]",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="unzGetGlobalInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#af05d6e3eac6ec396d9d134ca140fec61"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="unzOpen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#a614a4ee72e9055e5657d28487c2a7936"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="unzOpen2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#a899fa69e894354e48aab8869e13fd396"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="fill_fopen_filefunc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ioapi_8c.html#ab44f1d585b26ce7f9447a91ada432727"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="uLong",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$ioapi_8h.html#a50e9e9d5c30e481de822ad68fe537986"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node7 [label="unzGoToFirstFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#a54821c0b6da683800164a56f2ae14f33"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node8 [label="unzlocal_GetCurrentFileInfoInternal",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#a63347eee791bfbd6f1c65ade6d487cf6"];
+  Node8 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node9 [label="unzlocal_DosDateToTmuDate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#aef5be704f689c792449ab4a95846e9cb"];
+  Node9 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node8 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node10 [label="unzlocal_getLong",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#ad740080523b619b0894978d00da8643e"];
+  Node10 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node11 [label="unzlocal_getByte",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#a224066d88f092158ee3695c40a1f6c39"];
+  Node8 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node12 [label="unzlocal_getShort",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#ab98398d33871b77b25d86b1e0d0d8322"];
+  Node12 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node12 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node4 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node4 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node4 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node13 [label="unzlocal_SearchCentralDir",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$unzip_8c.html#a1ef6f8faed35b91243d1057fc8474c42"];
+  Node13 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+}
